@@ -1,0 +1,902 @@
+[
+  {
+    "question_number": 351,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 1,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the given idiom.\nFit as a fiddle",
+    "options": {
+      "A": "To be extremely excited and energetic",
+      "B": "To be in good health",
+      "C": "Something is perfect",
+      "D": "A good and useful invention"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "To be in good health",
+    "question_id": "264330164175"
+  },
+  {
+    "question_number": 352,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 2,
+    "category": "Grammar & English Usage",
+    "question": "Select the most appropriate meaning of the underlined word.\nShe has become a familiar figure in the world of politics.",
+    "options": {
+      "A": "Known",
+      "B": "Legend",
+      "C": "Elevated",
+      "D": "Fancy"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "Known",
+    "question_id": "264330121037"
+  },
+  {
+    "question_number": 353,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 3,
+    "category": "Antonyms",
+    "question": "Select the most appropriate ANTONYM of the given word.\nAuthentic",
+    "options": {
+      "A": "Genuine",
+      "B": "Fake",
+      "C": "Basic",
+      "D": "Different"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Fake",
+    "question_id": "264330164169"
+  },
+  {
+    "question_number": 354,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 4,
+    "category": "Antonyms",
+    "question": "Select the most appropriate ANTONYM of the given word.\nInquisitive",
+    "options": {
+      "A": "Innocent",
+      "B": "Indifferent",
+      "C": "Curious",
+      "D": "Studious"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Indifferent",
+    "question_id": "264330165247"
+  },
+  {
+    "question_number": 355,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 5,
+    "category": "Spelling / Misspelt Words",
+    "question": "Select the INCORRECTLY spelt word from the underlined words in the following\nsentence.\nIt is important to see school holistically, it is not a set of atomic items of rooms, library,\nassembly halls, canteen and playgrounds; it is all of these but in symbiotic\nrelationship with each other, the contors of which are often far too obvious and often\nsimply mysterious.",
+    "options": {
+      "A": "mysterious",
+      "B": "symbiotic",
+      "C": "contors",
+      "D": "holistically"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "contors",
+    "question_id": "264330141158"
+  },
+  {
+    "question_number": 356,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 6,
+    "category": "Spotting Errors",
+    "question": "The following sentence has been split into four segments. Identify the segment that\ncontains an error.\nWill Ramya / had completed / that work / by 2025?",
+    "options": {
+      "A": "by 2025",
+      "B": "that work",
+      "C": "had completed",
+      "D": "Will Ramya"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "had completed",
+    "question_id": "26433088292"
+  },
+  {
+    "question_number": 357,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 7,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the given idiom.\nApple of discord",
+    "options": {
+      "A": "Practical",
+      "B": "Distant love",
+      "C": "Bone of contention",
+      "D": "Centre of attraction"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Bone of contention",
+    "question_id": "264330141095"
+  },
+  {
+    "question_number": 358,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 8,
+    "category": "Spelling / Misspelt Words",
+    "question": "Fill in the blank by selecting the meaningful and correctly spelt word from the given\noptions.\nThey knew that the stock of the food was getting reduced and the fund________for\nthat was not enough for the next week.",
+    "options": {
+      "A": "asserted",
+      "B": "allotted",
+      "C": "alerted",
+      "D": "abandoned"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "allotted",
+    "question_id": "26433059538"
+  },
+  {
+    "question_number": 359,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 9,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence. If there is no need to substitute it, select ‘No substitution required’\nThe unexpected turn beside the project put the company in a big financial crisis.",
+    "options": {
+      "A": "in the project",
+      "B": "until the project",
+      "C": "No substitution required",
+      "D": "between the project"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "in the project",
+    "question_id": "264330117212"
+  },
+  {
+    "question_number": 360,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 10,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence.\nWe all should respect each other.",
+    "options": {
+      "A": "every other",
+      "B": "all other",
+      "C": "one another",
+      "D": "all of us"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "one another",
+    "question_id": "26433084644"
+  },
+  {
+    "question_number": 361,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 11,
+    "category": "One Word Substitution",
+    "question": "Select the most appropriate one-word substitution of the given group of words.\nA form of government in which the supreme power is vested in the people and\nexercised by their elected agents under a free electoral system.",
+    "options": {
+      "A": "Democracy",
+      "B": "Anarchy",
+      "C": "Monarchy",
+      "D": "Autocracy"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "Democracy",
+    "question_id": "26433090856"
+  },
+  {
+    "question_number": 362,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 12,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the given idiom.\nCome what may",
+    "options": {
+      "A": "To be among the latest",
+      "B": "No matter what happens",
+      "C": "To get frightened",
+      "D": "Meeting someone"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "No matter what happens",
+    "question_id": "26433091883"
+  },
+  {
+    "question_number": 363,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 13,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence.\nThe decision to engage in an armed conflict is tacit.",
+    "options": {
+      "A": "incomprehensible for some",
+      "B": "ineffective completely",
+      "C": "regretted by everyone",
+      "D": "implied without being stated"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "implied without being stated",
+    "question_id": "26433099887"
+  },
+  {
+    "question_number": 364,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 14,
+    "category": "Grammar & English Usage",
+    "question": "The following sentence has been divided into parts. One of them may contain an error.\nSelect the part that contains the error from the given options. If you don’t find any\nerror, mark ‘No error’ as your answer.\nMy elder brother / yesterday had took / my Facebook password.",
+    "options": {
+      "A": "my Facebook password",
+      "B": "yesterday had took",
+      "C": "My elder brother",
+      "D": "No error"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "yesterday had took",
+    "question_id": "26433073526"
+  },
+  {
+    "question_number": 365,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 15,
+    "category": "Grammar & English Usage",
+    "question": "Select the option that can be used as a one-word substitute for the given group of\nwords.\nTo tell the nature of a disease by its symptoms.",
+    "options": {
+      "A": "Design",
+      "B": "Diagnosis",
+      "C": "Decisive",
+      "D": "Dosage"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Diagnosis",
+    "question_id": "26433088804"
+  },
+  {
+    "question_number": 366,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 16,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the given idiom.\nFit as a fiddle",
+    "options": {
+      "A": "At the last moment",
+      "B": "To ignore what someone is saying",
+      "C": "To betray a close person",
+      "D": "In good health"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "In good health",
+    "question_id": "26433091831"
+  },
+  {
+    "question_number": 367,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 17,
+    "category": "Spotting Errors",
+    "question": "The following sentence has been split into four segments. Identify the segment that\ncontains a grammatical error.\nThe students / are expected / to come / in the right time.",
+    "options": {
+      "A": "in the right time",
+      "B": "The students",
+      "C": "to come",
+      "D": "are expected"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "in the right time",
+    "question_id": "264330145283"
+  },
+  {
+    "question_number": 368,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 18,
+    "category": "Idioms & Phrases",
+    "question": "Select the option that best expresses the meaning of the underlined idiom.\nChristy should discuss this with her face to face.",
+    "options": {
+      "A": "With another person in their presence rather than, say, by phone or letter",
+      "B": "Come to fully accept or understand something",
+      "C": "Remained normal and realistic",
+      "D": "Almost always"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "With another person in their presence rather than, say, by phone or letter",
+    "question_id": "264330136000"
+  },
+  {
+    "question_number": 369,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 19,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence.\nThe book narrated the athlete’s prowess in a lucid manner.",
+    "options": {
+      "A": "refined arguments",
+      "B": "exceptional mastery",
+      "C": "difficult situation",
+      "D": "affluent days"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "exceptional mastery",
+    "question_id": "26433099883"
+  },
+  {
+    "question_number": 370,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 20,
+    "category": "Grammar & English Usage",
+    "question": "Select the most appropriate meaning of the underlined word.\nShe has no desire for money.",
+    "options": {
+      "A": "Disgust",
+      "B": "Despise",
+      "C": "Care",
+      "D": "Wish"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Wish",
+    "question_id": "264330121036"
+  },
+  {
+    "question_number": 371,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 21,
+    "category": "Grammar & English Usage",
+    "question": "Select the most appropriate meaning of the underlined phrase.\nShe can't make up her mind where to go for her summer vacation.",
+    "options": {
+      "A": "Decide between alternatives or come to a decision",
+      "B": "Decide on a suitable parlour",
+      "C": "Decide how to do her makeup",
+      "D": "Engage her mind in creative activities"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "Decide between alternatives or come to a decision",
+    "question_id": "264330139841"
+  },
+  {
+    "question_number": 372,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 22,
+    "category": "Antonyms",
+    "question": "Select the most appropriate ANTONYM of the underlined word.\nHe is so stingy that I have never seen him spending money on basic necessities.",
+    "options": {
+      "A": "Wicked",
+      "B": "Extravagant",
+      "C": "Obnoxious",
+      "D": "Indecent"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Extravagant",
+    "question_id": "264330121873"
+  },
+  {
+    "question_number": 373,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 23,
+    "category": "Grammar & English Usage",
+    "question": "Select the option that can be used as a one-word substitute for the given group of\nwords.\nA book published after author’s death.",
+    "options": {
+      "A": "Posthuman publication",
+      "B": "Posthumous publication",
+      "C": "Supernatural publication",
+      "D": "Predecessor publication"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Posthumous publication",
+    "question_id": "26433088809"
+  },
+  {
+    "question_number": 374,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 24,
+    "category": "Synonyms",
+    "question": "Select the most appropriate synonym of the given word.\nRehabilitate",
+    "options": {
+      "A": "Reinstall",
+      "B": "Develop",
+      "C": "Absolve",
+      "D": "Decline"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "Reinstall",
+    "question_id": "264330117194"
+  },
+  {
+    "question_number": 375,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 25,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence.\nYou can become confident to speak English within one year.",
+    "options": {
+      "A": "convinced to speaking",
+      "B": "reassured of speaking",
+      "C": "assured of speaking",
+      "D": "confident in speaking"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "confident in speaking",
+    "question_id": "26433098973"
+  },
+  {
+    "question_number": 376,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 26,
+    "category": "Grammar & English Usage",
+    "question": "Select the option that can be used as a one-word substitute for the given group of\nwords.\nCentre of public attention",
+    "options": {
+      "A": "Ambiguity",
+      "B": "Obscurity",
+      "C": "Fuzziness",
+      "D": "Limelight"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Limelight",
+    "question_id": "26433088968"
+  },
+  {
+    "question_number": 377,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 27,
+    "category": "Grammar & English Usage",
+    "question": "The following sentence has been divided into parts. One of them may contain an error.\nSelect the part that contains the error from the given options. If you don’t find any\nerror, mark ‘No error’ as your answer.\nWe will / have been know the result / of the CAT exam by next week.",
+    "options": {
+      "A": "of the CAT exam by next week",
+      "B": "We will",
+      "C": "have been know the result",
+      "D": "No error"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "have been know the result",
+    "question_id": "26433059005"
+  },
+  {
+    "question_number": 378,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 28,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the given idiom.\nBreak a leg",
+    "options": {
+      "A": "To hurt someone",
+      "B": "To avoid someone",
+      "C": "To wish someone good luck",
+      "D": "To love someone"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "To wish someone good luck",
+    "question_id": "264330117234"
+  },
+  {
+    "question_number": 379,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 29,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the given idiom.\nTo hit the nail on the head",
+    "options": {
+      "A": "To hit something accurately",
+      "B": "To be indecisive",
+      "C": "To miss an opportunity",
+      "D": "To express an idea with great precision"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "To express an idea with great precision",
+    "question_id": "264330140553"
+  },
+  {
+    "question_number": 380,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 30,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence.\nRajib’s habit of sneering at the beliefs of others often hurts others’ sentiments.",
+    "options": {
+      "A": "manipulation",
+      "B": "cynicism",
+      "C": "certainty",
+      "D": "cleverness"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "cynicism",
+    "question_id": "26433070593"
+  },
+  {
+    "question_number": 381,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 31,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence. If there is no need to substitute it, select ‘No substitution required’.\nPolitics and money go together in this country.",
+    "options": {
+      "A": "go arm in arm",
+      "B": "go holding hands",
+      "C": "go hand in hand",
+      "D": "No substitution required"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "go hand in hand",
+    "question_id": "264330117195"
+  },
+  {
+    "question_number": 382,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 32,
+    "category": "Antonyms",
+    "question": "Select the most appropriate ANTONYM of the underlined word in the given sentence.\nAfter losing his job and his home, he found himself destitute and living on the streets.",
+    "options": {
+      "A": "glorious",
+      "B": "disturbed",
+      "C": "affluent",
+      "D": "ridiculous"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "affluent",
+    "question_id": "264330164568"
+  },
+  {
+    "question_number": 383,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 33,
+    "category": "Synonyms",
+    "question": "Select the most appropriate synonym of the highlighted word in the given sentence.\nThe plane crash was a harrowing experience for everyone involved.",
+    "options": {
+      "A": "Exterminate",
+      "B": "Excruciating",
+      "C": "Awesome",
+      "D": "Sad"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Excruciating",
+    "question_id": "264330108891"
+  },
+  {
+    "question_number": 384,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 34,
+    "category": "Spelling / Misspelt Words",
+    "question": "Identify the option that rectifies the spelling of the incorrectly spelt word in the given\nsentence.\nStudents should have a good vocabulary to write an essay efectively.",
+    "options": {
+      "A": "Gud",
+      "B": "Effectively",
+      "C": "Wriite",
+      "D": "Voicabulary"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Effectively",
+    "question_id": "26433089015"
+  },
+  {
+    "question_number": 385,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 35,
+    "category": "Synonyms",
+    "question": "Select the most appropriate synonym of the word ‘factual’ in the given sentence and\nchoose the correct option.\nThe scientist’s hypothesis was based on empirical evidence and rigorous\nexperimentation.",
+    "options": {
+      "A": "Rigorous",
+      "B": "Hypothesis",
+      "C": "Evidence",
+      "D": "Empirical"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Empirical",
+    "question_id": "264330163535"
+  },
+  {
+    "question_number": 386,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 36,
+    "category": "Spelling / Misspelt Words",
+    "question": "Select the INCORRECTLY spelt word in the given sentence.\nIt is beyond my cognative capacity to solve the mathematical problems.",
+    "options": {
+      "A": "problems",
+      "B": "cognative",
+      "C": "mathematical",
+      "D": "capacity"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "cognative",
+    "question_id": "264330163432"
+  },
+  {
+    "question_number": 387,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 37,
+    "category": "Spelling / Misspelt Words",
+    "question": "Select the most appropriate option that can substitute the underlined word which has\nbeen incorrectly spelt.\nMrs. Lal taught me English gramar.",
+    "options": {
+      "A": "grammar",
+      "B": "gramarr",
+      "C": "gramerr",
+      "D": "gramer"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "grammar",
+    "question_id": "264330123044"
+  },
+  {
+    "question_number": 388,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 38,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the underlined idiom.\nSanchit stands by his friends through thick and thin .",
+    "options": {
+      "A": "In winter and summer",
+      "B": "In favourable situations",
+      "C": "In crowded areas",
+      "D": "Under all circumstances"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Under all circumstances",
+    "question_id": "264330122977"
+  },
+  {
+    "question_number": 389,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 39,
+    "category": "Grammar & English Usage",
+    "question": "Select the option that can be used as a one-word substitute for the given phrase.\nOne who goes from place to place, begging",
+    "options": {
+      "A": "Misogamist",
+      "B": "Malleable",
+      "C": "Meticulous",
+      "D": "Mendicant"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Mendicant",
+    "question_id": "26433073742"
+  },
+  {
+    "question_number": 390,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 40,
+    "category": "Synonyms",
+    "question": "Select the most appropriate synonym of the given word.\nReminiscence",
+    "options": {
+      "A": "Harsh",
+      "B": "Remembrance",
+      "C": "Benevolence",
+      "D": "Oblivion"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Remembrance",
+    "question_id": "264330163372"
+  },
+  {
+    "question_number": 391,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 41,
+    "category": "Fill in the Blanks",
+    "question": "Select the most appropriate option to fill in blank number 1.",
+    "options": {
+      "A": "belonged",
+      "B": "belonging",
+      "C": "belong",
+      "D": "belongs"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "belong",
+    "question_id": "264330163346"
+  },
+  {
+    "question_number": 392,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 42,
+    "category": "Fill in the Blanks",
+    "question": "Select the most appropriate option to fill in blank number 2.",
+    "options": {
+      "A": "were known",
+      "B": "have knowing",
+      "C": "had know",
+      "D": "are known"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "are known",
+    "question_id": "264330163347"
+  },
+  {
+    "question_number": 393,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 43,
+    "category": "Fill in the Blanks",
+    "question": "Select the most appropriate option to fill in blank number 3.",
+    "options": {
+      "A": "finite",
+      "B": "similar",
+      "C": "popular",
+      "D": "distinctive"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "distinctive",
+    "question_id": "264330163348"
+  },
+  {
+    "question_number": 394,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 44,
+    "category": "Fill in the Blanks",
+    "question": "Select the most appropriate option to fill in blank number 4.",
+    "options": {
+      "A": "Consequently",
+      "B": "Because",
+      "C": "Formerly",
+      "D": "However"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "However",
+    "question_id": "264330163349"
+  },
+  {
+    "question_number": 395,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 45,
+    "category": "Fill in the Blanks",
+    "question": "Select the most appropriate option to fill in blank number 5.",
+    "options": {
+      "A": "for example",
+      "B": "of course",
+      "C": "after all",
+      "D": "in addition"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "for example",
+    "question_id": "264330163350"
+  },
+  {
+    "question_number": 396,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 46,
+    "category": "Reading Comprehension",
+    "question": "Which is the best description of the tone of the passage?",
+    "options": {
+      "A": "Technical",
+      "B": "Sarcastic",
+      "C": "Dogmatic",
+      "D": "Humanistic"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Humanistic",
+    "question_id": "264330164714"
+  },
+  {
+    "question_number": 397,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 47,
+    "category": "Reading Comprehension",
+    "question": "Which of the following most accurately states the central idea of the passage?",
+    "options": {
+      "A": "United Nations",
+      "B": "Pollution free planet",
+      "C": "Population explosion",
+      "D": "Economic growth"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Pollution free planet",
+    "question_id": "264330164713"
+  },
+  {
+    "question_number": 398,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 48,
+    "category": "Reading Comprehension",
+    "question": "Which of the following represents the structure of the passage?",
+    "options": {
+      "A": "Definition",
+      "B": "Cause-effect",
+      "C": "Critique",
+      "D": "Chronology"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Cause-effect",
+    "question_id": "264330164716"
+  },
+  {
+    "question_number": 399,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 49,
+    "category": "Antonyms",
+    "question": "What is the ANTONYM for the word ‘pervasive’ from the passage?",
+    "options": {
+      "A": "Clear",
+      "B": "Emotional",
+      "C": "Limited",
+      "D": "Offensive"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Limited",
+    "question_id": "264330164715"
+  },
+  {
+    "question_number": 400,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 3 - 05/10/2023 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 50,
+    "category": "Antonyms",
+    "question": "What is the ANTONYM for the word ‘priority’ from the passage?",
+    "options": {
+      "A": "Factor",
+      "B": "Last",
+      "C": "Part",
+      "D": "Task"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Last",
+    "question_id": "264330164717"
+  }
+]

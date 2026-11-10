@@ -1,0 +1,902 @@
+[
+  {
+    "question_number": 1,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 1,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the given idiom.\nMake waves",
+    "options": {
+      "A": "To cause difficulty",
+      "B": "To give up",
+      "C": "To take it easy",
+      "D": "To have patience"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "To cause difficulty",
+    "question_id": "630680517411"
+  },
+  {
+    "question_number": 2,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 2,
+    "category": "Spelling / Misspelt Words",
+    "question": "Select the INCORRECTLY spelt word.",
+    "options": {
+      "A": "Matriculation",
+      "B": "Prohibition",
+      "C": "Humorous",
+      "D": "Addmission"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Addmission",
+    "question_id": "630680454145"
+  },
+  {
+    "question_number": 3,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 3,
+    "category": "Spotting Errors",
+    "question": "Parts of the following sentence have been given as options. Select the option that\ncontains an error.\nFor the past / three years, / my uncle is /away from home.",
+    "options": {
+      "A": "three years,",
+      "B": "For the past",
+      "C": "my uncle is",
+      "D": "away from home."
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "my uncle is",
+    "question_id": "630680415312"
+  },
+  {
+    "question_number": 4,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 4,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined words in the\ngiven sentence.\nMy grandmother helps us in all the problems. She has a remedy for all the diseases.",
+    "options": {
+      "A": "‘Service’",
+      "B": "Panacea",
+      "C": "Fanatic",
+      "D": "Heretic"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Panacea",
+    "question_id": "630680212288"
+  },
+  {
+    "question_number": 5,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 5,
+    "category": "Antonyms",
+    "question": "In the question four alternatives are given for the underlined word in the sentence.\nChoose the alternative which best expresses the opposite meaning of the word.\nWe embraced each other overjoyed at our success, then I took photograph of Tenzing\nholding aloft the flags of Great Britain, Nepal, the United Nations and India.”",
+    "options": {
+      "A": "Cradled",
+      "B": "Junked",
+      "C": "Contained",
+      "D": "Limited"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Limited",
+    "question_id": "630680517302"
+  },
+  {
+    "question_number": 6,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 6,
+    "category": "Spelling / Misspelt Words",
+    "question": "Select the INCORRECTLY spelt word.",
+    "options": {
+      "A": "Interogative",
+      "B": "Auditions",
+      "C": "Interference",
+      "D": "Greengrocers"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "Interogative",
+    "question_id": "630680517528"
+  },
+  {
+    "question_number": 7,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 7,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence. If there is no need to substitute it, select ‘No substitution’.\nHe is feeding a male dog and female dog",
+    "options": {
+      "A": "a dog and puppy",
+      "B": "a dog and a bitch",
+      "C": "a male dog and lady dog",
+      "D": "No substitution"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "a dog and a bitch",
+    "question_id": "630680414536"
+  },
+  {
+    "question_number": 8,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 8,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option to substitute the underlined segment in the given\nsentence to make it a meaningful sentence. If no substitution is required, select ‘No\nsubstitution’.\nThe quality of students of an educational institute is of great importance and a crucial\nstarting point.",
+    "options": {
+      "A": "The quality of students in an educational institute is in great importance and a crucial starting point.",
+      "B": "The quality of students in an educational institute is of great importance and a crucial starting point.",
+      "C": "No substitution",
+      "D": "The quality of students in an educational institute is of great importance and is a crucial start point."
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "The quality of students in an educational institute is of great importance and a crucial starting point.",
+    "question_id": "630680414796"
+  },
+  {
+    "question_number": 9,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 9,
+    "category": "Grammar & English Usage",
+    "question": "Three segments of the following sentence have been underlined and given as options.\nOne of them may contain an error. Select the option that contains the error. If you\ndon’t find any error, mark ‘No error’ as your answer.\nAlthough there is no proven data, the Centre for Policy Research estimate that India\nhas the largest stock of iron ore in the world.",
+    "options": {
+      "A": "Although there is no proven data,",
+      "B": "Centre for Policy Research estimate",
+      "C": "No error",
+      "D": "India has the largest stock"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Centre for Policy Research estimate",
+    "question_id": "630680130711"
+  },
+  {
+    "question_number": 10,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 10,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence.\nShe asked me where my hometown is and where I worked.",
+    "options": {
+      "A": "hometown has been",
+      "B": "hometown would be",
+      "C": "hometown were",
+      "D": "hometown was"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "hometown was",
+    "question_id": "630680414557"
+  },
+  {
+    "question_number": 11,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 11,
+    "category": "Grammar & English Usage",
+    "question": "Select the option that will improve the underlined part of the given sentence. In case\nno improvement is needed, select 'No improvement required'.\nWhat flavour ice cream do you want?",
+    "options": {
+      "A": "No improvement required",
+      "B": "flavours ice cream",
+      "C": "flavour of ice cream",
+      "D": "ice cream flavoured"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "flavour of ice cream",
+    "question_id": "630680414928"
+  },
+  {
+    "question_number": 12,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 12,
+    "category": "Antonyms",
+    "question": "Select the most appropriate ANTONYM of the underlined word from the given options.\nThe new government allowed all the corrupt ministers to feel the sufficiency of money\nby banning the specific currency.",
+    "options": {
+      "A": "Indeficiency",
+      "B": "Plenty",
+      "C": "Enough",
+      "D": "Dearth"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Dearth",
+    "question_id": "630680517277"
+  },
+  {
+    "question_number": 13,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 13,
+    "category": "Spelling / Misspelt Words",
+    "question": "In the following sentence, four words are underlined, out of which one word is\nMISSPELT. Select the MISSPELT word.\nEveryone admired her because of her charesma, but she was a narcissist full of self-\nadmiration and treachery.",
+    "options": {
+      "A": "treachery",
+      "B": "self-admiration",
+      "C": "charesma",
+      "D": "narcissist"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "charesma",
+    "question_id": "630680410013"
+  },
+  {
+    "question_number": 14,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 14,
+    "category": "Grammar & English Usage",
+    "question": "Select the most appropriate option that can substitute the highlighted words in the\ngiven sentence.\nThe serenity of the river was a sight to behold.",
+    "options": {
+      "A": "confusing for all",
+      "B": "ready to be sold",
+      "C": "inviting for boating",
+      "D": "pleasant to see"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "pleasant to see",
+    "question_id": "630680701378"
+  },
+  {
+    "question_number": 15,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 15,
+    "category": "Spotting Errors",
+    "question": "Parts of the following sentences have been given as options. Select the option that\ncontains a grammatical error.\nMr. Prabhakar was first man to arrive at the venue.",
+    "options": {
+      "A": "was first man",
+      "B": "Mr. Prabhakar",
+      "C": "to arrive",
+      "D": "at the venue"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "was first man",
+    "question_id": "630680146946"
+  },
+  {
+    "question_number": 16,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 16,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence. If there is no need to substitute it, select ‘No substitution’.\nInspite mother’s milk is vital to a child’s health, a number of FMCG companies wrongly\nadvertise artificially prepared infant formulas as being the best for the child.",
+    "options": {
+      "A": "Mother’s milk",
+      "B": "No substitution",
+      "C": "Though mother’s milk",
+      "D": "Despite mother’s milk"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Though mother’s milk",
+    "question_id": "630680414519"
+  },
+  {
+    "question_number": 17,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 17,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the given idiom.\nSpill the beans",
+    "options": {
+      "A": "To have an excuse",
+      "B": "To be in a state of shock",
+      "C": "To have happy period of your life",
+      "D": "To expose a secret"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "To expose a secret",
+    "question_id": "630680517589"
+  },
+  {
+    "question_number": 18,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 18,
+    "category": "Grammar & English Usage",
+    "question": "Select the most appropriate meaning of the underlined segment in the following\nsentence.\nDon’t you think that the cat’s in the cradle? You never make time for me.",
+    "options": {
+      "A": "Newly married life",
+      "B": "Busy in your work",
+      "C": "Complicated relationship",
+      "D": "Busy in minting money"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Complicated relationship",
+    "question_id": "630680300660"
+  },
+  {
+    "question_number": 19,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 19,
+    "category": "Synonyms",
+    "question": "Select the most appropriate synonym of the word in brackets to fill in the blank.\nHer million-dollar wedding was a ________ display of wealth. (pompous)",
+    "options": {
+      "A": "prestigious",
+      "B": "outrageous",
+      "C": "mock",
+      "D": "pretentious"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "pretentious",
+    "question_id": "630680196549"
+  },
+  {
+    "question_number": 20,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 20,
+    "category": "Grammar & English Usage",
+    "question": "Select the option that can be used as a one-word substitute for the given group of\nwords.\nA person who is a lover of women.",
+    "options": {
+      "A": "Philologist",
+      "B": "Monogamist",
+      "C": "Philogynist",
+      "D": "Misogynist"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Philogynist",
+    "question_id": "630680414528"
+  },
+  {
+    "question_number": 21,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 21,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the given idiom.\nUp the ante",
+    "options": {
+      "A": "Increase demands",
+      "B": "Cost cutting",
+      "C": "Mediocre",
+      "D": "Expensive"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "Increase demands",
+    "question_id": "630680310088"
+  },
+  {
+    "question_number": 22,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 22,
+    "category": "Spelling / Misspelt Words",
+    "question": "Parts of the following sentence have been given as options. Select the option that\ncontains a spelling error.\nGrievances cannot be redresed unless they are known.",
+    "options": {
+      "A": "Grievances cannot",
+      "B": "be redresed",
+      "C": "unless they",
+      "D": "are known."
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "be redresed",
+    "question_id": "630680518793"
+  },
+  {
+    "question_number": 23,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 23,
+    "category": "Spotting Errors",
+    "question": "The following sentence has been divided into parts. One of them contains an error.\nSelect the part that contains the error from the given options.\nMr. Raghav / brushes his / teeth four / times the day.",
+    "options": {
+      "A": "brushes his",
+      "B": "times the day",
+      "C": "Mr. Raghav",
+      "D": "teeth four"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "times the day",
+    "question_id": "630680184893"
+  },
+  {
+    "question_number": 24,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 24,
+    "category": "Antonyms",
+    "question": "Select the most appropriate ANTONYM of the underlined word in the following\nsentence.\nThe woman in the crowd broke down in hysterics.",
+    "options": {
+      "A": "Aghast",
+      "B": "Cray",
+      "C": "Calm",
+      "D": "Insanity"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Calm",
+    "question_id": "630680309991"
+  },
+  {
+    "question_number": 25,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 25,
+    "category": "Spelling / Misspelt Words",
+    "question": "Select the option that rectifies the spelling error in the given sentence.\nShe is going to resiev a package in the mail today.",
+    "options": {
+      "A": "reseive",
+      "B": "receive",
+      "C": "resieve",
+      "D": "recieive"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "receive",
+    "question_id": "630680517475"
+  },
+  {
+    "question_number": 26,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 26,
+    "category": "Antonyms",
+    "question": "Select the word from the sentence below, which is an antonym for the word\n‘dishearten’\nMany of the world’s greatest art pieces are encouraged by kings and are inspired by\nnature and society.",
+    "options": {
+      "A": "Greatest",
+      "B": "Pieces",
+      "C": "Inspired",
+      "D": "Encouraged"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Encouraged",
+    "question_id": "630680517335"
+  },
+  {
+    "question_number": 27,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 27,
+    "category": "Antonyms",
+    "question": "Select the most appropriate ANTONYM of the underlined word in the given sentence.\nHer sarcastic comment earned a few chuckles from the audience, who understood the\nirony in her words.",
+    "options": {
+      "A": "Unsavoury",
+      "B": "Courteous",
+      "C": "Sardonic",
+      "D": "Humorous"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Courteous",
+    "question_id": "630680396969"
+  },
+  {
+    "question_number": 28,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 28,
+    "category": "Synonyms",
+    "question": "Select the most appropriate synonym of the given word.\nDestitute",
+    "options": {
+      "A": "Broken",
+      "B": "Corrupt",
+      "C": "Broke",
+      "D": "Firm"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Broke",
+    "question_id": "630680383229"
+  },
+  {
+    "question_number": 29,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 29,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option to substitute the underlined part of the given\nsentence.\nAll the kith and kin of my deceased landlady were present to attend her funeral.",
+    "options": {
+      "A": "office colleagues",
+      "B": "secret enemies",
+      "C": "special students",
+      "D": "blood relatives"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "blood relatives",
+    "question_id": "630680193202"
+  },
+  {
+    "question_number": 30,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 30,
+    "category": "Synonyms",
+    "question": "Select the option that is similar in meaning to the underlined word in the following\nsentence.\nChameleon usually disguises itself to avoid predators.",
+    "options": {
+      "A": "changes",
+      "B": "camouflages",
+      "C": "transposes",
+      "D": "swaps"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "camouflages",
+    "question_id": "630680213115"
+  },
+  {
+    "question_number": 31,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 31,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate idiom to fill in the blank.\nThe team always _______ to come up with unique advertisements for all its clients.",
+    "options": {
+      "A": "thinks outside the box",
+      "B": "throw caution to the winds",
+      "C": "take a back seat",
+      "D": "turn the tables"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "thinks outside the box",
+    "question_id": "630680517591"
+  },
+  {
+    "question_number": 32,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 32,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate idiom that can substitute the underlined segment in the\ngiven sentence.\nI sometimes accept excess work to please my manager, so I take more responsibilities\nthan one can manage.",
+    "options": {
+      "A": "bite off more than I can chew",
+      "B": "get a taste of my own medicine",
+      "C": "burn my boats",
+      "D": "hear it straight from the horse’s mouth"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "bite off more than I can chew",
+    "question_id": "630680517406"
+  },
+  {
+    "question_number": 33,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 33,
+    "category": "Fill in the Blanks",
+    "question": "Select the most appropriate option to fill in the blank and make the sentence the\nmeaningful.\nRathna is known for _____ tears.",
+    "options": {
+      "A": "student’s",
+      "B": "babies’",
+      "C": "animal’s",
+      "D": "crocodile"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "crocodile",
+    "question_id": "630680517340"
+  },
+  {
+    "question_number": 34,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 34,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined words in the\ngiven sentence.\nIce melts fastly,in the sun.",
+    "options": {
+      "A": "melts fastest",
+      "B": "melt fastly",
+      "C": "melt fast",
+      "D": "melts fast"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "melts fast",
+    "question_id": "630680446720"
+  },
+  {
+    "question_number": 35,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 35,
+    "category": "Spelling / Misspelt Words",
+    "question": "Select the INCORRECTLY spelt word.",
+    "options": {
+      "A": "obscurity",
+      "B": "schedule",
+      "C": "assasination",
+      "D": "buoyant"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "assasination",
+    "question_id": "630680409922"
+  },
+  {
+    "question_number": 36,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 36,
+    "category": "Idioms & Phrases",
+    "question": "Choose the most appropriate meaning of the given idiom.\nBack to back",
+    "options": {
+      "A": "Present and discuss the details of something.",
+      "B": "Do something very fast or with great energy.",
+      "C": "Something follows immediately after something else.",
+      "D": "Try to get something."
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Something follows immediately after something else.",
+    "question_id": "630680517531"
+  },
+  {
+    "question_number": 37,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 37,
+    "category": "Spotting Errors",
+    "question": "The following sentence has been split into four segments. Identify the segment that\ncontains a grammatical error.\nRaveena has made / up her mind to / carried minimum / luggage with her.",
+    "options": {
+      "A": "Raveena has made",
+      "B": "up her mind to",
+      "C": "carried minimum",
+      "D": "luggage with her."
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "carried minimum",
+    "question_id": "630680295883"
+  },
+  {
+    "question_number": 38,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 38,
+    "category": "Synonyms",
+    "question": "Select the most appropriate synonym of the given word.\nPrudent",
+    "options": {
+      "A": "Precious",
+      "B": "Diffident",
+      "C": "Judicious",
+      "D": "Doubtful"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Judicious",
+    "question_id": "630680204306"
+  },
+  {
+    "question_number": 39,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 39,
+    "category": "Grammar & English Usage",
+    "question": "Select the option that can be used as a one-word substitute for the given group of\nwords.\nModesty or shyness resulting from a lack of self-confidence",
+    "options": {
+      "A": "Assurance",
+      "B": "Determination",
+      "C": "Conviction",
+      "D": "Diffidence"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Diffidence",
+    "question_id": "630680414826"
+  },
+  {
+    "question_number": 40,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 40,
+    "category": "Grammar & English Usage",
+    "question": "Select the option that can be used as a one-word substitute for the given group of\nwords.\nA person who is critical of the motives of others",
+    "options": {
+      "A": "Cynic",
+      "B": "Interviewer",
+      "C": "Chauffeur",
+      "D": "Curator"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "Cynic",
+    "question_id": "630680414828"
+  },
+  {
+    "question_number": 41,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 41,
+    "category": "Fill in the Blanks",
+    "question": "Select the most appropriate option to fill in blank number 1.",
+    "options": {
+      "A": "denies",
+      "B": "suggests",
+      "C": "offers",
+      "D": "garnersprovides"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "offers",
+    "question_id": "630680515042"
+  },
+  {
+    "question_number": 42,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 42,
+    "category": "Fill in the Blanks",
+    "question": "Select the most appropriate option to fill in blank number 2.",
+    "options": {
+      "A": "explain",
+      "B": "exploit",
+      "C": "explore",
+      "D": "exclaim"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "explore",
+    "question_id": "630680515043"
+  },
+  {
+    "question_number": 43,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 43,
+    "category": "Fill in the Blanks",
+    "question": "Select the most appropriate option to fill in blank number 3.",
+    "options": {
+      "A": "planking",
+      "B": "plank",
+      "C": "platform",
+      "D": "planks"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "platform",
+    "question_id": "630680515044"
+  },
+  {
+    "question_number": 44,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 44,
+    "category": "Fill in the Blanks",
+    "question": "Select the most appropriate option to fill in blank number 4.",
+    "options": {
+      "A": "withers",
+      "B": "avoids",
+      "C": "cultivates",
+      "D": "provokes"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "cultivates",
+    "question_id": "630680515045"
+  },
+  {
+    "question_number": 45,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 45,
+    "category": "Fill in the Blanks",
+    "question": "Select the most appropriate option to fill in blank number 5.",
+    "options": {
+      "A": "became",
+      "B": "becomes",
+      "C": "become",
+      "D": "becoming"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "becomes",
+    "question_id": "630680515046"
+  },
+  {
+    "question_number": 46,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 46,
+    "category": "Reading Comprehension",
+    "question": "Select the most suitable word from the passage which means ‘empirical’.",
+    "options": {
+      "A": "Ambitious",
+      "B": "Sustained",
+      "C": "Latest",
+      "D": "Enormous"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Sustained",
+    "question_id": "630680406881"
+  },
+  {
+    "question_number": 47,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 47,
+    "category": "Reading Comprehension",
+    "question": "Identify the most suitable title for the passage.",
+    "options": {
+      "A": "Success Story of Airline Companies",
+      "B": "Threats of Climate Changes",
+      "C": "Biofuels Vs Synthetic Fuels",
+      "D": "One Good Turn from the Aviation Industry"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "One Good Turn from the Aviation Industry",
+    "question_id": "630680406883"
+  },
+  {
+    "question_number": 48,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 48,
+    "category": "Grammar & English Usage",
+    "question": "What is the tone of the speaker?",
+    "options": {
+      "A": "Depressing",
+      "B": "Casual",
+      "C": "Worried",
+      "D": "Hopeful"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Hopeful",
+    "question_id": "630680406882"
+  },
+  {
+    "question_number": 49,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 49,
+    "category": "Grammar & English Usage",
+    "question": "Biofuels are not made from _________ .",
+    "options": {
+      "A": "agricultural residue",
+      "B": "cooking oil",
+      "C": "coal",
+      "D": "trees"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "coal",
+    "question_id": "630680406880"
+  },
+  {
+    "question_number": 50,
+    "exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 1 - 27/06/2024 (9:00 AM - 11:00 AM)",
+    "shift_question_number": 50,
+    "category": "Grammar & English Usage",
+    "question": "Why have major airline companies pledged to reach net-zero carbon emissions by\nmid-century?",
+    "options": {
+      "A": "To moderate expenditure",
+      "B": "To create better revenue",
+      "C": "To reduce traffic jam",
+      "D": "To fight climate change"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "To fight climate change",
+    "question_id": "630680406879"
+  }
+]

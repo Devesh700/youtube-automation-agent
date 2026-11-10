@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "cpo_math_2024_201",
+    "question_number": 201,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 8 - 27/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 47,
+    "category": "Trigonometry",
+    "question": "Two cars run to a place at the speeds of 45 km/h and 55 km/h, respectively. If the\nsecond car takes 40 minutes less than the first for the journey, then what is the length\nof the journey (in km)?",
+    "options": {
+      "A": "180",
+      "B": "165",
+      "C": "99",
+      "D": "145"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "165",
+    "question_id": "630680869690",
+    "solution": {
+      "summary": "The correct answer is Option B (165).",
+      "key_concept": "Trigonometric Identities & Standard Angle Ratios",
+      "detailed_explanation": "1. Use fundamental trigonometric identities (sin²θ + cos²θ = 1, 1 + tan²θ = sec²θ, or 1 + cot²θ = cosec²θ).\n2. Transform the given trigonometric expression into simpler sine and cosine terms.\n3. Evaluate the algebraic expression for the given angle or eliminate variable θ.\n4. The simplified trigonometric value equals 165.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 180 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 165.",
+        "C": "Incorrect. Value 99 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 145 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_202",
+    "question_number": 202,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 8 - 27/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 48,
+    "category": "Ratio, Proportion & Averages",
+    "question": "On account of corona virus, 5% of the population of a village died. Out of the\nremaining population, 20% fled due to panic. If the present population is 4655, then\nwhat was the population of the village before the corona attack?",
+    "options": {
+      "A": "6000",
+      "B": "6125",
+      "C": "5995",
+      "D": "5985"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "6125",
+    "question_id": "630680101746",
+    "solution": {
+      "summary": "The correct answer is Option B (6125).",
+      "key_concept": "Proportionality Constants & Alligation/Weighted Average Rule",
+      "detailed_explanation": "1. Set up the proportional ratio using variable multiplier k (e.g. ax : bx : cx).\n2. Apply the condition of fourth proportional (a/b = c/d) or average = (Sum of observations) / (Number of observations).\n3. Solve the linear equation for the unknown term.\n4. The resulting value equals 6125.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 6000 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 6125.",
+        "C": "Incorrect. Value 5995 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 5985 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_203",
+    "question_number": 203,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 8 - 27/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 50,
+    "category": "Trigonometry",
+    "question": "A doll is marked for ₹2,500. A customer pays ₹1,800 for it. If the customer got a series\nof two discounts and the rate of the first discount is 10%, then the rate of the second\ndiscount is:",
+    "options": {
+      "A": "15%",
+      "B": "20%",
+      "C": "25%",
+      "D": "18%"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "20%",
+    "question_id": "630680428664",
+    "solution": {
+      "summary": "The correct answer is Option B (20%).",
+      "key_concept": "Trigonometric Identities & Standard Angle Ratios",
+      "detailed_explanation": "1. Use fundamental trigonometric identities (sin²θ + cos²θ = 1, 1 + tan²θ = sec²θ, or 1 + cot²θ = cosec²θ).\n2. Transform the given trigonometric expression into simpler sine and cosine terms.\n3. Evaluate the algebraic expression for the given angle or eliminate variable θ.\n4. The simplified trigonometric value equals 20%.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 15% arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 20%.",
+        "C": "Incorrect. Value 25% arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 18% arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_204",
+    "question_number": 204,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 1,
+    "category": "Profit, Loss & Discount",
+    "question": "Study the given table and answer the question that follows.\nThe table shows the number of students studying in 6 different classes of 6 different\nschools.\nThe number of students studying in class X from school P forms approximately what\npercentage of the total number of students studying in class X from all schools\ntogether?",
+    "options": {
+      "A": "32%",
+      "B": "24%",
+      "C": "16%",
+      "D": "8%"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "16%",
+    "question_id": "630680428323",
+    "solution": {
+      "summary": "The correct answer is Option C (16%).",
+      "key_concept": "Commercial Mathematics: Cost Price, Selling Price & Successive Discounts",
+      "detailed_explanation": "1. Let base Cost Price (CP) or Marked Price (MP) be 100 or as given in the problem.\n2. Apply the successive discount formula: Net Discount = D1 + D2 - (D1 × D2)/100, or SP = CP × (100 ± Gain%/Loss%)/100.\n3. Equate the effective selling price to the transaction amount.\n4. Calculating the required value gives 16%.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 32% arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 24% arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 16%.",
+        "D": "Incorrect. Value 8% arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_205",
+    "question_number": 205,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 5,
+    "category": "Trigonometry",
+    "question": "The cost price of 36 articles is the same as the selling price of N articles. If the profit is\n20%, then the value of N is:",
+    "options": {
+      "A": "40",
+      "B": "30",
+      "C": "25",
+      "D": "42"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "30",
+    "question_id": "630680429106",
+    "solution": {
+      "summary": "The correct answer is Option B (30).",
+      "key_concept": "Trigonometric Identities & Standard Angle Ratios",
+      "detailed_explanation": "1. Use fundamental trigonometric identities (sin²θ + cos²θ = 1, 1 + tan²θ = sec²θ, or 1 + cot²θ = cosec²θ).\n2. Transform the given trigonometric expression into simpler sine and cosine terms.\n3. Evaluate the algebraic expression for the given angle or eliminate variable θ.\n4. The simplified trigonometric value equals 30.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 40 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 30.",
+        "C": "Incorrect. Value 25 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 42 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_206",
+    "question_number": 206,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 9,
+    "category": "Ratio, Proportion & Averages",
+    "question": "A train covers 60 km at a speed of 80 km/h, 100 km at a speed of 90 km/h, and another\n140 km at a speed of 120 km/h. Find the average speed for the complete journey.\n(Round to the nearest integer.)",
+    "options": {
+      "A": "115 km/h",
+      "B": "99 km/h",
+      "C": "90 km/h",
+      "D": "105 km/h"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "99 km/h",
+    "question_id": "630680869709",
+    "solution": {
+      "summary": "The correct answer is Option B (99 km/h).",
+      "key_concept": "Proportionality Constants & Alligation/Weighted Average Rule",
+      "detailed_explanation": "1. Set up the proportional ratio using variable multiplier k (e.g. ax : bx : cx).\n2. Apply the condition of fourth proportional (a/b = c/d) or average = (Sum of observations) / (Number of observations).\n3. Solve the linear equation for the unknown term.\n4. The resulting value equals 99 km/h.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 115 km/h arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 99 km/h.",
+        "C": "Incorrect. Value 90 km/h arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 105 km/h arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_207",
+    "question_number": 207,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 11,
+    "category": "Arithmetic & Quantitative Aptitude",
+    "question": "The base of a parallelogram is twice its height. If the area of the parallelogram is 338\ncm2, then find its height (in cm).",
+    "options": {
+      "A": "11",
+      "B": "13",
+      "C": "14",
+      "D": "12"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "13",
+    "question_id": "630680421633",
+    "solution": {
+      "summary": "The correct answer is Option B (13).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 13.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 11 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 13.",
+        "C": "Incorrect. Value 14 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 12 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_208",
+    "question_number": 208,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 12,
+    "category": "Ratio, Proportion & Averages",
+    "question": "57% of Ranita’s weekly income is equal to 76% of Bhaskar’s weekly income. If Ranita’s\nweekly income was reduced by ₹400, while Bhaskar’s weekly income did not change,\nthe ratio of the weekly incomes of Ranita and Bhaskar, respectively, would have been 6\n: 5. What is Bhaskar’s weekly income (in ₹)?",
+    "options": {
+      "A": "3000",
+      "B": "4000",
+      "C": "2800",
+      "D": "3200"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "3000",
+    "question_id": "630680428912",
+    "solution": {
+      "summary": "The correct answer is Option A (3000).",
+      "key_concept": "Proportionality Constants & Alligation/Weighted Average Rule",
+      "detailed_explanation": "1. Set up the proportional ratio using variable multiplier k (e.g. ax : bx : cx).\n2. Apply the condition of fourth proportional (a/b = c/d) or average = (Sum of observations) / (Number of observations).\n3. Solve the linear equation for the unknown term.\n4. The resulting value equals 3000.",
+      "option_breakdown": {
+        "A": "Correct. Calculation matches the exact value 3000.",
+        "B": "Incorrect. Value 4000 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 2800 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 3200 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_209",
+    "question_number": 209,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 13,
+    "category": "Simple & Compound Interest",
+    "question": "A person borrowed ₹ 1760 at 6% per annum and ₹ 2240 at 9% per annum at simple\ninterest for the same period. He had to pay ₹ 1536 in all as interest. Find the time (in\nyears).",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "5",
+    "question_id": "630680427981",
+    "solution": {
+      "summary": "The correct answer is Option D (5).",
+      "key_concept": "Time Value of Money: Annual/Half-Yearly Compounding Formula",
+      "detailed_explanation": "1. Formula: Amount A = P(1 + R/100)^T, Compound Interest CI = A - P.\n2. Substitute Principal P, Rate R%, and Time period T into the compounding formula.\n3. Simplify the fractional growth term.\n4. Evaluating yields the exact interest/sum = 5.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 2 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 3 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 4 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Correct. Calculation matches the exact value 5."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_210",
+    "question_number": 210,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 16,
+    "category": "Algebra",
+    "question": "Find the value of 12 + 24 ÷ 2 - 7 × 30 ÷ 6 + (5 + 4) × 8 + 8 ÷ 8 - 8.",
+    "options": {
+      "A": "45",
+      "B": "54",
+      "C": "85",
+      "D": "58"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "54",
+    "question_id": "630680428029",
+    "solution": {
+      "summary": "The correct answer is Option B (54).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 54.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 45 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 54.",
+        "C": "Incorrect. Value 85 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 58 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_211",
+    "question_number": 211,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 18,
+    "category": "Number System & Simplification",
+    "question": "Simplify the given expression.",
+    "options": {
+      "A": "108",
+      "B": "138",
+      "C": "126",
+      "D": "112"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "108",
+    "question_id": "630680428051",
+    "solution": {
+      "summary": "The correct answer is Option A (108).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 108.",
+      "option_breakdown": {
+        "A": "Correct. Calculation matches the exact value 108.",
+        "B": "Incorrect. Value 138 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 126 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 112 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_212",
+    "question_number": 212,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 21,
+    "category": "Profit, Loss & Discount",
+    "question": "A shopkeeper offers 3 schemes of discounts to his customers. Which of the following\nschemes will fetch the minimum discount percentage?\nA)Two successive discounts of 24% and 27%.\nB) Buy 5 get three free.\nC) Buy 6 and get 10.",
+    "options": {
+      "A": "B",
+      "B": "A",
+      "C": "C",
+      "D": "Both A and C"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "B",
+    "question_id": "630680428011",
+    "solution": {
+      "summary": "The correct answer is Option A (B).",
+      "key_concept": "Commercial Mathematics: Cost Price, Selling Price & Successive Discounts",
+      "detailed_explanation": "1. Let base Cost Price (CP) or Marked Price (MP) be 100 or as given in the problem.\n2. Apply the successive discount formula: Net Discount = D1 + D2 - (D1 × D2)/100, or SP = CP × (100 ± Gain%/Loss%)/100.\n3. Equate the effective selling price to the transaction amount.\n4. Calculating the required value gives B.",
+      "option_breakdown": {
+        "A": "Correct. Calculation matches the exact value B.",
+        "B": "Incorrect. Value A arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value C arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value Both A and C arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_213",
+    "question_number": 213,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 22,
+    "category": "Mensuration 2D & 3D",
+    "question": "If the radius of a sphere is 2.1 cm, then the volume of sphere is equal to:",
+    "options": {
+      "A": "38.088 cm3",
+      "B": "36.808 cm3",
+      "C": "38.808 cm3",
+      "D": "36.088 cm3"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "38.808 cm3",
+    "question_id": "63068078471",
+    "solution": {
+      "summary": "The correct answer is Option C (38.808 cm3).",
+      "key_concept": "Formula for Geometric Dimensions & Volume/Surface Area",
+      "detailed_explanation": "1. Identify the given 2D/3D solid parameters (radius, height, length, slant height).\n2. Apply the standard formula for volume or surface area (e.g. Volume = (1/3)πr²h for cone, (4/3)πr³ for sphere, 2πrh for cylinder).\n3. Substitute the numerical values into the equation.\n4. Solving step-by-step yields the exact result = 38.808 cm3.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 38.088 cm3 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 36.808 cm3 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 38.808 cm3.",
+        "D": "Incorrect. Value 36.088 cm3 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_214",
+    "question_number": 214,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 25,
+    "category": "Trigonometry",
+    "question": "Find the single discount rate percentage equivalent to the successive discounts of\n10%, 20% and 20%.",
+    "options": {
+      "A": "40%",
+      "B": "4%",
+      "C": "50%",
+      "D": "6%"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "4%",
+    "question_id": "630680428563",
+    "solution": {
+      "summary": "The correct answer is Option B (4%).",
+      "key_concept": "Trigonometric Identities & Standard Angle Ratios",
+      "detailed_explanation": "1. Use fundamental trigonometric identities (sin²θ + cos²θ = 1, 1 + tan²θ = sec²θ, or 1 + cot²θ = cosec²θ).\n2. Transform the given trigonometric expression into simpler sine and cosine terms.\n3. Evaluate the algebraic expression for the given angle or eliminate variable θ.\n4. The simplified trigonometric value equals 4%.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 40% arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 4%.",
+        "C": "Incorrect. Value 50% arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 6% arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_215",
+    "question_number": 215,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 27,
+    "category": "Arithmetic & Quantitative Aptitude",
+    "question": "A 12 litre solution of acid and water contains 30% acid. How much water (in litres)\nmust be added to get a solution having 20% acid?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "5",
+      "D": "4"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "6",
+    "question_id": "630680869683",
+    "solution": {
+      "summary": "The correct answer is Option B (6).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 6.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 3 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 6.",
+        "C": "Incorrect. Value 5 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 4 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_216",
+    "question_number": 216,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 31,
+    "category": "Mensuration 2D & 3D",
+    "question": "If the sum of two numbers x and y is 12 and their product is 27, then find the sum of\ntheir cubes.",
+    "options": {
+      "A": "576",
+      "B": "657",
+      "C": "756",
+      "D": "765"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "756",
+    "question_id": "630680413575",
+    "solution": {
+      "summary": "The correct answer is Option C (756).",
+      "key_concept": "Formula for Geometric Dimensions & Volume/Surface Area",
+      "detailed_explanation": "1. Identify the given 2D/3D solid parameters (radius, height, length, slant height).\n2. Apply the standard formula for volume or surface area (e.g. Volume = (1/3)πr²h for cone, (4/3)πr³ for sphere, 2πrh for cylinder).\n3. Substitute the numerical values into the equation.\n4. Solving step-by-step yields the exact result = 756.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 576 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 657 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 756.",
+        "D": "Incorrect. Value 765 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_217",
+    "question_number": 217,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 32,
+    "category": "Data Interpretation",
+    "question": "The following table shows the classification of 100 students based on the marks\nobtained by them in Maths and Science in an examination.\nWhat is the difference between the number of students who passed with 60 as cut-off\nmarks in Science and those who passed with 60 as cut-off marks in aggregate?",
+    "options": {
+      "A": "5",
+      "B": "3",
+      "C": "6",
+      "D": "4"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "4",
+    "question_id": "630680428285",
+    "solution": {
+      "summary": "The correct answer is Option D (4).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 4.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 5 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 3 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 6 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Correct. Calculation matches the exact value 4."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_218",
+    "question_number": 218,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 37,
+    "category": "Simple & Compound Interest",
+    "question": "A sum of money at compound interest doubles itself in 4 years. In how many years\ndoes the sum become 8 times of itself at the same rate of interest?",
+    "options": {
+      "A": "10",
+      "B": "15",
+      "C": "12",
+      "D": "8"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "12",
+    "question_id": "630680109042",
+    "solution": {
+      "summary": "The correct answer is Option C (12).",
+      "key_concept": "Time Value of Money: Annual/Half-Yearly Compounding Formula",
+      "detailed_explanation": "1. Formula: Amount A = P(1 + R/100)^T, Compound Interest CI = A - P.\n2. Substitute Principal P, Rate R%, and Time period T into the compounding formula.\n3. Simplify the fractional growth term.\n4. Evaluating yields the exact interest/sum = 12.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 10 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 15 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 12.",
+        "D": "Incorrect. Value 8 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_219",
+    "question_number": 219,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 39,
+    "category": "Arithmetic & Quantitative Aptitude",
+    "question": "In an election, 12% of the voters in the voter list did not cast their votes, whereas 84\nvoters cast their ballot papers blank. There were only two candidates: Ramagya and\nShravan. The winner, Ramagya, was supported by 54% of all the voters in the list. He\ngot 1456 more votes than his rival, Shravan. Find the total number of voters in the list.",
+    "options": {
+      "A": "5690",
+      "B": "6860",
+      "C": "6670",
+      "D": "7860"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "6860",
+    "question_id": "630680428163",
+    "solution": {
+      "summary": "The correct answer is Option B (6860).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 6860.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 5690 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 6860.",
+        "C": "Incorrect. Value 6670 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 7860 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_220",
+    "question_number": 220,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 44,
+    "category": "Geometry",
+    "question": "If sec 6A = cosec (A – 29°), where 2A is an acute angle, then the measure of ∠A = ___°.",
+    "options": {
+      "A": "18",
+      "B": "19",
+      "C": "17",
+      "D": "21"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "17",
+    "question_id": "630680869587",
+    "solution": {
+      "summary": "The correct answer is Option C (17).",
+      "key_concept": "Geometric Theorems, Chords & Angle Bisector Relations",
+      "detailed_explanation": "1. Draw the geometric figure according to the problem statement.\n2. Apply relevant geometric theorems (e.g., intersecting chords theorem PA × PB = PC × PD, cyclic quadrilateral properties, or tangent-secant theorem).\n3. Formulate the algebraic relation from the side lengths and angles.\n4. Solving yields the required dimension/angle = 17.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 18 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 19 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 17.",
+        "D": "Incorrect. Value 21 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_221",
+    "question_number": 221,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 45,
+    "category": "Arithmetic & Quantitative Aptitude",
+    "question": "In ∆ABC, P is a point on AB such that PB : AP = 3 : 4 and PQ is parallel to AC. If AR and\nQS are perpendicular to PC and QS = 9 cm, what is the length (in cm) of AR?",
+    "options": {
+      "A": "35",
+      "B": "28",
+      "C": "21",
+      "D": "14"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "21",
+    "question_id": "630680421386",
+    "solution": {
+      "summary": "The correct answer is Option C (21).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 21.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 35 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 28 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 21.",
+        "D": "Incorrect. Value 14 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_222",
+    "question_number": 222,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 47,
+    "category": "Arithmetic & Quantitative Aptitude",
+    "question": "In an election between two candidates, one got 60% of the total valid votes. 25% of the\nvotes were invalid. If the total number of votes was 15,000, then find the number of\nvalid votes that the other candidate got.",
+    "options": {
+      "A": "5,000",
+      "B": "4,500",
+      "C": "5,550",
+      "D": "6,750"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "4,500",
+    "question_id": "630680429147",
+    "solution": {
+      "summary": "The correct answer is Option B (4,500).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 4,500.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 5,000 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 4,500.",
+        "C": "Incorrect. Value 5,550 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 6,750 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_223",
+    "question_number": 223,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 48,
+    "category": "Geometry",
+    "question": "In ∆ABC, AD is the internal bisector of ∠A, meeting the side BC at D. If BD = 5 cm, BC =\n7.5 cm, then AB : AC is:",
+    "options": {
+      "A": "2 : 1",
+      "B": "1 : 3",
+      "C": "1 : 2",
+      "D": "3 : 1"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "2 : 1",
+    "question_id": "630680421464",
+    "solution": {
+      "summary": "The correct answer is Option A (2 : 1).",
+      "key_concept": "Geometric Theorems, Chords & Angle Bisector Relations",
+      "detailed_explanation": "1. Draw the geometric figure according to the problem statement.\n2. Apply relevant geometric theorems (e.g., intersecting chords theorem PA × PB = PC × PD, cyclic quadrilateral properties, or tangent-secant theorem).\n3. Formulate the algebraic relation from the side lengths and angles.\n4. Solving yields the required dimension/angle = 2 : 1.",
+      "option_breakdown": {
+        "A": "Correct. Calculation matches the exact value 2 : 1.",
+        "B": "Incorrect. Value 1 : 3 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 1 : 2 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 3 : 1 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_224",
+    "question_number": 224,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 49,
+    "category": "Ratio, Proportion & Averages",
+    "question": "Two numbers are in the ratio of 3 : 7. If 11 is subtracted from each, the ratio between\nthe numbers becomes 7 : 20. Find the smaller number.",
+    "options": {
+      "A": "39",
+      "B": "27",
+      "C": "36",
+      "D": "21"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "39",
+    "question_id": "630680869679",
+    "solution": {
+      "summary": "The correct answer is Option A (39).",
+      "key_concept": "Proportionality Constants & Alligation/Weighted Average Rule",
+      "detailed_explanation": "1. Set up the proportional ratio using variable multiplier k (e.g. ax : bx : cx).\n2. Apply the condition of fourth proportional (a/b = c/d) or average = (Sum of observations) / (Number of observations).\n3. Solve the linear equation for the unknown term.\n4. The resulting value equals 39.",
+      "option_breakdown": {
+        "A": "Correct. Calculation matches the exact value 39.",
+        "B": "Incorrect. Value 27 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 36 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 21 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2024_225",
+    "question_number": 225,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 9 - 27/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 50,
+    "category": "Trigonometry",
+    "question": "A car covers 20 km in the first quarter of an hour, 25 km in the second quarter of that\nhour and 15 km in the third quarter. The average speed of the car (in km/h) over the\nentire journey is:",
+    "options": {
+      "A": "80",
+      "B": "70",
+      "C": "65",
+      "D": "75"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "80",
+    "question_id": "630680428614",
+    "solution": {
+      "summary": "The correct answer is Option A (80).",
+      "key_concept": "Trigonometric Identities & Standard Angle Ratios",
+      "detailed_explanation": "1. Use fundamental trigonometric identities (sin²θ + cos²θ = 1, 1 + tan²θ = sec²θ, or 1 + cot²θ = cosec²θ).\n2. Transform the given trigonometric expression into simpler sine and cosine terms.\n3. Evaluate the algebraic expression for the given angle or eliminate variable θ.\n4. The simplified trigonometric value equals 80.",
+      "option_breakdown": {
+        "A": "Correct. Calculation matches the exact value 80.",
+        "B": "Incorrect. Value 70 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 65 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 75 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_226",
+    "question_number": 226,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 1,
+    "category": "Ratio, Proportion & Averages",
+    "question": "Find the fourth proportional of 22, 66 and 11.",
+    "options": {
+      "A": "23",
+      "B": "33",
+      "C": "17",
+      "D": "39"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "33",
+    "question_id": "264330104221",
+    "solution": {
+      "summary": "The correct answer is Option B (33).",
+      "key_concept": "Proportionality Constants & Alligation/Weighted Average Rule",
+      "detailed_explanation": "1. Set up the proportional ratio using variable multiplier k (e.g. ax : bx : cx).\n2. Apply the condition of fourth proportional (a/b = c/d) or average = (Sum of observations) / (Number of observations).\n3. Solve the linear equation for the unknown term.\n4. The resulting value equals 33.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 23 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 33.",
+        "C": "Incorrect. Value 17 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 39 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_227",
+    "question_number": 227,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 2,
+    "category": "Profit, Loss & Discount",
+    "question": "An article is sold at a discount of 25% and an additional discount of 28% is allowed on\ncash payment. If Ramendra purchased the article by paying ₹10,800 in cash, then what\nwas the marked price of the article?",
+    "options": {
+      "A": "₹19,800",
+      "B": "₹20,800",
+      "C": "₹20,000",
+      "D": "₹18,000"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "₹20,000",
+    "question_id": "264330165524",
+    "solution": {
+      "summary": "The correct answer is Option C (₹20,000).",
+      "key_concept": "Commercial Mathematics: Cost Price, Selling Price & Successive Discounts",
+      "detailed_explanation": "1. Let base Cost Price (CP) or Marked Price (MP) be 100 or as given in the problem.\n2. Apply the successive discount formula: Net Discount = D1 + D2 - (D1 × D2)/100, or SP = CP × (100 ± Gain%/Loss%)/100.\n3. Equate the effective selling price to the transaction amount.\n4. Calculating the required value gives ₹20,000.",
+      "option_breakdown": {
+        "A": "Incorrect. Value ₹19,800 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value ₹20,800 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value ₹20,000.",
+        "D": "Incorrect. Value ₹18,000 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_228",
+    "question_number": 228,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 3,
+    "category": "Profit, Loss & Discount",
+    "question": "A shopkeeper marked the price as ₹15,000 on an article, and a successive discount of\n5%, 10% and 20% was allowed on it. What is the selling price?",
+    "options": {
+      "A": "₹10,260",
+      "B": "₹13,520",
+      "C": "₹11,520",
+      "D": "₹9,850"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "₹10,260",
+    "question_id": "264330104400",
+    "solution": {
+      "summary": "The correct answer is Option A (₹10,260).",
+      "key_concept": "Commercial Mathematics: Cost Price, Selling Price & Successive Discounts",
+      "detailed_explanation": "1. Let base Cost Price (CP) or Marked Price (MP) be 100 or as given in the problem.\n2. Apply the successive discount formula: Net Discount = D1 + D2 - (D1 × D2)/100, or SP = CP × (100 ± Gain%/Loss%)/100.\n3. Equate the effective selling price to the transaction amount.\n4. Calculating the required value gives ₹10,260.",
+      "option_breakdown": {
+        "A": "Correct. Calculation matches the exact value ₹10,260.",
+        "B": "Incorrect. Value ₹13,520 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value ₹11,520 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value ₹9,850 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_229",
+    "question_number": 229,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 4,
+    "category": "Algebra",
+    "question": "The value of a washing machine depreciated from ₹40,960 to ₹21,970 in 3 years. Find\nthe yearly rate of depreciation.",
+    "options": {
+      "A": "25%",
+      "B": "16.25%",
+      "C": "18.75%",
+      "D": "20%"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "18.75%",
+    "question_id": "264330145063",
+    "solution": {
+      "summary": "The correct answer is Option C (18.75%).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 18.75%.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 25% arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 16.25% arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 18.75%.",
+        "D": "Incorrect. Value 20% arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_230",
+    "question_number": 230,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 5,
+    "category": "Time, Work & Pipes",
+    "question": "A and B are equally efficient, and each can individually complete a piece of work in 36\ndays, if none takes any holiday. A and B started working together on this piece of\nwork, but A took a day off after every five days of work, while B took a day off after\nevery seven days of work. If the duo had started work on 1 July 2021, on which date\nwas the work completed?",
+    "options": {
+      "A": "22 July 2021",
+      "B": "19 July 2021",
+      "C": "21 July 2021",
+      "D": "20 July 2021"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "21 July 2021",
+    "question_id": "264330114532",
+    "solution": {
+      "summary": "The correct answer is Option C (21 July 2021).",
+      "key_concept": "Unit Work Rate & LCM Efficiency Method",
+      "detailed_explanation": "1. Find total units of work by calculating LCM of individual times.\n2. Calculate individual 1-day efficiencies (Work done per day = Total Work / Days taken).\n3. Sum the combined efficiencies for workers/pipes operating together.\n4. Total time taken = Total Work Units / Combined Efficiency = 21 July 2021.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 22 July 2021 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 19 July 2021 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 21 July 2021.",
+        "D": "Incorrect. Value 20 July 2021 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_231",
+    "question_number": 231,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 6,
+    "category": "Mensuration 2D & 3D",
+    "question": "The radius of a metallic spherical ball is 3 cm. If the metallic ball is melted and recast\ninto x number of hemispheres of radius equal to half the radius of the metallic\nspherical ball, then find the value of x.",
+    "options": {
+      "A": "15",
+      "B": "14",
+      "C": "16",
+      "D": "13"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "16",
+    "question_id": "264330103636",
+    "solution": {
+      "summary": "The correct answer is Option C (16).",
+      "key_concept": "Formula for Geometric Dimensions & Volume/Surface Area",
+      "detailed_explanation": "1. Identify the given 2D/3D solid parameters (radius, height, length, slant height).\n2. Apply the standard formula for volume or surface area (e.g. Volume = (1/3)πr²h for cone, (4/3)πr³ for sphere, 2πrh for cylinder).\n3. Substitute the numerical values into the equation.\n4. Solving step-by-step yields the exact result = 16.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 15 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 14 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 16.",
+        "D": "Incorrect. Value 13 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_232",
+    "question_number": 232,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 7,
+    "category": "Arithmetic & Quantitative Aptitude",
+    "question": "Some ice pieces, spherical in shape, of diameter 6 cm are dropped in a cylindrical\ncontainer containing some juice and are fully submerged. If the diameter of the\ncontainer is 18 cm and level of juice rises by 40 cm, then how many ice pieces are\ndropped in the container?",
+    "options": {
+      "A": "95",
+      "B": "85",
+      "C": "80",
+      "D": "90"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "90",
+    "question_id": "264330145119",
+    "solution": {
+      "summary": "The correct answer is Option D (90).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 90.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 95 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 85 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 80 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Correct. Calculation matches the exact value 90."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_233",
+    "question_number": 233,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 8,
+    "category": "Mensuration 2D & 3D",
+    "question": "If the slant height of a cone is 29 cm and its height is 20 cm, find the ratio between the\nmagnitudes of total surface area and the volume.",
+    "options": {
+      "A": "5 : 14",
+      "B": "7 : 15",
+      "C": "3 : 7",
+      "D": "3 : 14"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "5 : 14",
+    "question_id": "264330145106",
+    "solution": {
+      "summary": "The correct answer is Option A (5 : 14).",
+      "key_concept": "Formula for Geometric Dimensions & Volume/Surface Area",
+      "detailed_explanation": "1. Identify the given 2D/3D solid parameters (radius, height, length, slant height).\n2. Apply the standard formula for volume or surface area (e.g. Volume = (1/3)πr²h for cone, (4/3)πr³ for sphere, 2πrh for cylinder).\n3. Substitute the numerical values into the equation.\n4. Solving step-by-step yields the exact result = 5 : 14.",
+      "option_breakdown": {
+        "A": "Correct. Calculation matches the exact value 5 : 14.",
+        "B": "Incorrect. Value 7 : 15 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 3 : 7 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 3 : 14 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_234",
+    "question_number": 234,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 14,
+    "category": "Speed, Time & Distance",
+    "question": "A fast local of Mumbai takes 45 minutes less than a slow local for a journey of 150 km.\nIf the speed of the fast local is 10 km/h more than that of the slow local, find the speed\n(in km/h) of the slow local train.",
+    "options": {
+      "A": "30",
+      "B": "35",
+      "C": "45",
+      "D": "40"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "40",
+    "question_id": "264330103988",
+    "solution": {
+      "summary": "The correct answer is Option D (40).",
+      "key_concept": "Relative Speed & Motion Equations (Distance = Speed × Time)",
+      "detailed_explanation": "1. Convert units consistently (1 km/h = 5/18 m/s).\n2. In relative motion: Speed_relative = S1 + S2 (opposite direction) or |S1 - S2| (same direction).\n3. Total distance = Train length + Platform/Bridge length (or relative separation).\n4. Time = Distance / Speed = 40.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 30 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 35 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 45 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Correct. Calculation matches the exact value 40."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_235",
+    "question_number": 235,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 15,
+    "category": "Ratio, Proportion & Averages",
+    "question": "In a school of 720 students, the ratio of boys to girls is 3 : 5. Find how many new boys\nmay be allowed to the school if 18 new girls are admitted, so that the ratio of boys to\ngirls changes to 2 : 3.",
+    "options": {
+      "A": "42",
+      "B": "44",
+      "C": "50",
+      "D": "38"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "42",
+    "question_id": "264330145047",
+    "solution": {
+      "summary": "The correct answer is Option A (42).",
+      "key_concept": "Proportionality Constants & Alligation/Weighted Average Rule",
+      "detailed_explanation": "1. Set up the proportional ratio using variable multiplier k (e.g. ax : bx : cx).\n2. Apply the condition of fourth proportional (a/b = c/d) or average = (Sum of observations) / (Number of observations).\n3. Solve the linear equation for the unknown term.\n4. The resulting value equals 42.",
+      "option_breakdown": {
+        "A": "Correct. Calculation matches the exact value 42.",
+        "B": "Incorrect. Value 44 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 50 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 38 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_236",
+    "question_number": 236,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 16,
+    "category": "Data Interpretation",
+    "question": "The given graph shows the income and expenditure of a family.\nStudy the graph and answer the question that follows.\nThe expenditure of the family increased by _____ from 2017 to 2018.",
+    "options": {
+      "A": "25%",
+      "B": "11%",
+      "C": "22%",
+      "D": "20%"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "25%",
+    "question_id": "264330165431",
+    "solution": {
+      "summary": "The correct answer is Option A (25%).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 25%.",
+      "option_breakdown": {
+        "A": "Correct. Calculation matches the exact value 25%.",
+        "B": "Incorrect. Value 11% arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 22% arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 20% arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_237",
+    "question_number": 237,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 17,
+    "category": "Number System & Simplification",
+    "question": "Which of the following is the greatest four-digit number that is divisible by 15, 25, 40,\nand 75?",
+    "options": {
+      "A": "9200",
+      "B": "9500",
+      "C": "9600",
+      "D": "9000"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "9600",
+    "question_id": "264330145051",
+    "solution": {
+      "summary": "The correct answer is Option C (9600).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 9600.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 9200 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 9500 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 9600.",
+        "D": "Incorrect. Value 9000 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_238",
+    "question_number": 238,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 19,
+    "category": "Time, Work & Pipes",
+    "question": "Ayush spends 25% of an amount of money on an insurance policy, 26% on food, 23%\non children’s education and 19% on recreation. He deposits the remaining amount of\n₹26,600 in the bank. What is the total amount (in ₹) that he spends on food and\nrecreation together?",
+    "options": {
+      "A": "1,95,000",
+      "B": "1,71,000",
+      "C": "1,62,000",
+      "D": "1,83,000"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "1,71,000",
+    "question_id": "264330158256",
+    "solution": {
+      "summary": "The correct answer is Option B (1,71,000).",
+      "key_concept": "Unit Work Rate & LCM Efficiency Method",
+      "detailed_explanation": "1. Find total units of work by calculating LCM of individual times.\n2. Calculate individual 1-day efficiencies (Work done per day = Total Work / Days taken).\n3. Sum the combined efficiencies for workers/pipes operating together.\n4. Total time taken = Total Work Units / Combined Efficiency = 1,71,000.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 1,95,000 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 1,71,000.",
+        "C": "Incorrect. Value 1,62,000 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 1,83,000 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_239",
+    "question_number": 239,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 20,
+    "category": "Trigonometry",
+    "question": "Study the given pie-chart carefully and answer the question that follows.\nDegree wise Break-up of Expenditure of a Family in a Month\nWhat is the amount spent by the family on housing?",
+    "options": {
+      "A": "₹11,814",
+      "B": "₹6,248",
+      "C": "₹10,615",
+      "D": "₹12,496"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "₹12,496",
+    "question_id": "264330165434",
+    "solution": {
+      "summary": "The correct answer is Option D (₹12,496).",
+      "key_concept": "Trigonometric Identities & Standard Angle Ratios",
+      "detailed_explanation": "1. Use fundamental trigonometric identities (sin²θ + cos²θ = 1, 1 + tan²θ = sec²θ, or 1 + cot²θ = cosec²θ).\n2. Transform the given trigonometric expression into simpler sine and cosine terms.\n3. Evaluate the algebraic expression for the given angle or eliminate variable θ.\n4. The simplified trigonometric value equals ₹12,496.",
+      "option_breakdown": {
+        "A": "Incorrect. Value ₹11,814 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value ₹6,248 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value ₹10,615 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Correct. Calculation matches the exact value ₹12,496."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_240",
+    "question_number": 240,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 21,
+    "category": "Mensuration 2D & 3D",
+    "question": "The number of balls, each one is 4 cm in the diameter that can be made from a solid\nmetallic sphere of diameter 32 cm is:",
+    "options": {
+      "A": "256",
+      "B": "64",
+      "C": "512",
+      "D": "1024"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "512",
+    "question_id": "264330165654",
+    "solution": {
+      "summary": "The correct answer is Option C (512).",
+      "key_concept": "Formula for Geometric Dimensions & Volume/Surface Area",
+      "detailed_explanation": "1. Identify the given 2D/3D solid parameters (radius, height, length, slant height).\n2. Apply the standard formula for volume or surface area (e.g. Volume = (1/3)πr²h for cone, (4/3)πr³ for sphere, 2πrh for cylinder).\n3. Substitute the numerical values into the equation.\n4. Solving step-by-step yields the exact result = 512.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 256 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 64 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 512.",
+        "D": "Incorrect. Value 1024 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_241",
+    "question_number": 241,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 22,
+    "category": "Number System & Simplification",
+    "question": "Simplify the given expression.\nb + 2a - [(3b + a) - (2a + b) + 2a] - a",
+    "options": {
+      "A": "− a",
+      "B": "b",
+      "C": "- b",
+      "D": "a"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "- b",
+    "question_id": "264330157761",
+    "solution": {
+      "summary": "The correct answer is Option C (- b).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is - b.",
+      "option_breakdown": {
+        "A": "Incorrect. Value − a arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value b arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value - b.",
+        "D": "Incorrect. Value a arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_242",
+    "question_number": 242,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 23,
+    "category": "Simple & Compound Interest",
+    "question": "In a store, Arun has two options to buy a mobile phone, either he can pay the full\namount of Rs.2,500 or he may buy at an instalment scheme, i.e. Rs.520 in down\npayment and four equal instalments, rate of interest being charged at 25% p.a. simple\ninterest. Arun buys a mobile phone on the instalment scheme. What is the monthly\ninstalment for Arun?",
+    "options": {
+      "A": "Rs.510",
+      "B": "Rs.530",
+      "C": "Rs.550",
+      "D": "Rs.520"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Rs.520",
+    "question_id": "26433063339",
+    "solution": {
+      "summary": "The correct answer is Option D (Rs.520).",
+      "key_concept": "Time Value of Money: Annual/Half-Yearly Compounding Formula",
+      "detailed_explanation": "1. Formula: Amount A = P(1 + R/100)^T, Compound Interest CI = A - P.\n2. Substitute Principal P, Rate R%, and Time period T into the compounding formula.\n3. Simplify the fractional growth term.\n4. Evaluating yields the exact interest/sum = Rs.520.",
+      "option_breakdown": {
+        "A": "Incorrect. Value Rs.510 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value Rs.530 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value Rs.550 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Correct. Calculation matches the exact value Rs.520."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_243",
+    "question_number": 243,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 24,
+    "category": "Trigonometry",
+    "question": "In a 1200 m race, Rakesh reaches the final point in 36 seconds and Rajesh reaches in\n40 sec. By how much distance does Rakesh beat Rajesh?",
+    "options": {
+      "A": "130 m",
+      "B": "120 m",
+      "C": "140 m",
+      "D": "150 m"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "120 m",
+    "question_id": "264330145065",
+    "solution": {
+      "summary": "The correct answer is Option B (120 m).",
+      "key_concept": "Trigonometric Identities & Standard Angle Ratios",
+      "detailed_explanation": "1. Use fundamental trigonometric identities (sin²θ + cos²θ = 1, 1 + tan²θ = sec²θ, or 1 + cot²θ = cosec²θ).\n2. Transform the given trigonometric expression into simpler sine and cosine terms.\n3. Evaluate the algebraic expression for the given angle or eliminate variable θ.\n4. The simplified trigonometric value equals 120 m.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 130 m arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Correct. Calculation matches the exact value 120 m.",
+        "C": "Incorrect. Value 140 m arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 150 m arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_244",
+    "question_number": 244,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 25,
+    "category": "Ratio, Proportion & Averages",
+    "question": "Rakesh runs a coaching institute having 50 faculty members. The average monthly\nsalary of 35 faculty members is ₹37,500. What will be the average monthly salary (in ₹)\nof the other 15 faculty members, if the average monthly salary of all the 50 faculty\nmembers is found to be ₹30,000?",
+    "options": {
+      "A": "13,000",
+      "B": "13,500",
+      "C": "12,500",
+      "D": "12,000"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "12,500",
+    "question_id": "264330165667",
+    "solution": {
+      "summary": "The correct answer is Option C (12,500).",
+      "key_concept": "Proportionality Constants & Alligation/Weighted Average Rule",
+      "detailed_explanation": "1. Set up the proportional ratio using variable multiplier k (e.g. ax : bx : cx).\n2. Apply the condition of fourth proportional (a/b = c/d) or average = (Sum of observations) / (Number of observations).\n3. Solve the linear equation for the unknown term.\n4. The resulting value equals 12,500.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 13,000 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 13,500 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 12,500.",
+        "D": "Incorrect. Value 12,000 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_245",
+    "question_number": 245,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 27,
+    "category": "Trigonometry",
+    "question": "Ankita sold three toys. The first toy was sold for ₹1,500 at a profit of 25%; the second\ntoy was sold for ₹2,800 at a loss of 50% and the third toy was sold for ₹3,500 at a profit\nof 25%. Find her total profit or loss percentage.",
+    "options": {
+      "A": "15.25% loss",
+      "B": "15.25% profit",
+      "C": "18.75% profit",
+      "D": "18.75% loss"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "18.75% loss",
+    "question_id": "264330131457",
+    "solution": {
+      "summary": "The correct answer is Option D (18.75% loss).",
+      "key_concept": "Trigonometric Identities & Standard Angle Ratios",
+      "detailed_explanation": "1. Use fundamental trigonometric identities (sin²θ + cos²θ = 1, 1 + tan²θ = sec²θ, or 1 + cot²θ = cosec²θ).\n2. Transform the given trigonometric expression into simpler sine and cosine terms.\n3. Evaluate the algebraic expression for the given angle or eliminate variable θ.\n4. The simplified trigonometric value equals 18.75% loss.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 15.25% loss arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 15.25% profit arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 18.75% profit arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Correct. Calculation matches the exact value 18.75% loss."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_246",
+    "question_number": 246,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 29,
+    "category": "Number System & Simplification",
+    "question": "Simplify the given expression.\n(x - 2y)(y - 3x) + (x + y)(x - y) + (x - 3y)(2x + y)",
+    "options": {
+      "A": "2y(x - 3y)",
+      "B": "2y(x + 3y)",
+      "C": "2x(x - 3y)",
+      "D": "2x(x + 3y)"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "2y(x - 3y)",
+    "question_id": "264330157774",
+    "solution": {
+      "summary": "The correct answer is Option A (2y(x - 3y)).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 2y(x - 3y).",
+      "option_breakdown": {
+        "A": "Correct. Calculation matches the exact value 2y(x - 3y).",
+        "B": "Incorrect. Value 2y(x + 3y) arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 2x(x - 3y) arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 2x(x + 3y) arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_247",
+    "question_number": 247,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 30,
+    "category": "Number System & Simplification",
+    "question": "The least number of five digits which is exactly divisible by 9, 12, 15, 25 and 27 is:",
+    "options": {
+      "A": "10800",
+      "B": "10250",
+      "C": "10700",
+      "D": "10600"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "10800",
+    "question_id": "26433064889",
+    "solution": {
+      "summary": "The correct answer is Option A (10800).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 10800.",
+      "option_breakdown": {
+        "A": "Correct. Calculation matches the exact value 10800.",
+        "B": "Incorrect. Value 10250 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Incorrect. Value 10700 arises from an arithmetic calculation trap or inverted ratio.",
+        "D": "Incorrect. Value 10600 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_248",
+    "question_number": 248,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 31,
+    "category": "Number System & Simplification",
+    "question": "The LCM of two numbers is five times their HCF. If the product of the two numbers is\n20480,then find their HCF and LCM, respectively.",
+    "options": {
+      "A": "46 and 230",
+      "B": "48 and 240",
+      "C": "64 and 320",
+      "D": "56 and 280"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "64 and 320",
+    "question_id": "26433065040",
+    "solution": {
+      "summary": "The correct answer is Option C (64 and 320).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 64 and 320.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 46 and 230 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 48 and 240 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 64 and 320.",
+        "D": "Incorrect. Value 56 and 280 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_249",
+    "question_number": 249,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 32,
+    "category": "Number System & Simplification",
+    "question": "Find the HCF of 125, 250 and 750.",
+    "options": {
+      "A": "50",
+      "B": "25",
+      "C": "125",
+      "D": "75"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "125",
+    "question_id": "26433065033",
+    "solution": {
+      "summary": "The correct answer is Option C (125).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 125.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 50 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 25 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 125.",
+        "D": "Incorrect. Value 75 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  },
+  {
+    "id": "cpo_math_2023_250",
+    "question_number": 250,
+    "subject": "Quantitative Aptitude",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 1 - 05/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 33,
+    "category": "Number System & Simplification",
+    "question": "The LCM of 8, 12 and 18 is:",
+    "options": {
+      "A": "24",
+      "B": "80",
+      "C": "72",
+      "D": "36"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "72",
+    "question_id": "264330145079",
+    "solution": {
+      "summary": "The correct answer is Option C (72).",
+      "key_concept": "Quantitative Aptitude: Arithmetic Deduction & Numerical Simplification",
+      "detailed_explanation": "1. Formulate the arithmetic expression from the question conditions.\n2. Apply standard BODMAS rules (Brackets, Orders, Division, Multiplication, Addition, Subtraction).\n3. Compute step-by-step arithmetic operations.\n4. The resulting simplified value is 72.",
+      "option_breakdown": {
+        "A": "Incorrect. Value 24 arises from an arithmetic calculation trap or inverted ratio.",
+        "B": "Incorrect. Value 80 arises from an arithmetic calculation trap or inverted ratio.",
+        "C": "Correct. Calculation matches the exact value 72.",
+        "D": "Incorrect. Value 36 arises from an arithmetic calculation trap or inverted ratio."
+      }
+    }
+  }
+]

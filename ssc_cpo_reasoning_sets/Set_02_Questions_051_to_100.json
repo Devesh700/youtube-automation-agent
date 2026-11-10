@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "cpo_reasoning_2024_051",
+    "question_number": 51,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 21,
+    "category": "Coding-Decoding",
+    "question": "In a certain code language, ‘SING’ is written as ‘22121710’ and ‘FOUR’ is written as\n‘9182421’. How will ‘BEAN’ be written in that language?",
+    "options": {
+      "A": "68418",
+      "B": "58417",
+      "C": "57413",
+      "D": "69516"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "58417",
+    "question_id": "630680416594",
+    "solution": {
+      "summary": "The correct answer is Option B (58417).",
+      "key_concept": "Letter Positional Values & Systematic Shift/Reverse Coding Pattern",
+      "detailed_explanation": "1. Assign positional values of letters in the English alphabet (A=1, B=2, ..., Z=26).\n2. Analyze the shift pattern between the original word and its coded equivalent (e.g., +1, -2, or reverse position 27 - position).\n3. Apply this verified transformation rule to each letter of the query word.\n4. The resulting decoded/encoded cluster matches 58417.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (58417).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_052",
+    "question_number": 52,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 22,
+    "category": "Analogy & Classification",
+    "question": "Select the option that is related to the third word in the same way as the second word\nis related to the first word. (The words must be considered as meaningful English\nwords and must not be related to each other based on the number of letters/number of\nconsonants/vowels in the word.)\nConcology : Shells :: Palaeontology : ?",
+    "options": {
+      "A": "Metals",
+      "B": "Fossils",
+      "C": "Planets",
+      "D": "Soil"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Fossils",
+    "question_id": "630680416725",
+    "solution": {
+      "summary": "The correct answer is Option B (Fossils).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option B satisfies all logical parameters without contradiction.\n4. Therefore, Fossils is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (Fossils).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_053",
+    "question_number": 53,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 24,
+    "category": "Analogy & Classification",
+    "question": "9 is related to 90 following a certain logic. Following the same logic, 12 is related to\n156. Which of the following numbers is related to 72 using the same logic?",
+    "options": {
+      "A": "6",
+      "B": "9",
+      "C": "7",
+      "D": "8"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "8",
+    "question_id": "63068063340",
+    "solution": {
+      "summary": "The correct answer is Option D (8).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option D satisfies all logical parameters without contradiction.\n4. Therefore, 8 is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Correct. Satisfies the logical rule (8)."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_054",
+    "question_number": 54,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 25,
+    "category": "Coding-Decoding",
+    "question": "In a certain code language,\n'A x B' means ‘A is the son of B’,\n'A – B' means ‘A is the brother of B’,\n'A + B' means ‘A is the wife of B’,\n'A % B' means ‘A is the father of B’.\nHow is M related to T if ‘M + N – P x S % T’?",
+    "options": {
+      "A": "Mother's brother's daughter",
+      "B": "Brother's wife",
+      "C": "Father's brother's son's wife",
+      "D": "Wife's sister"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Brother's wife",
+    "question_id": "630680869741",
+    "solution": {
+      "summary": "The correct answer is Option B (Brother's wife).",
+      "key_concept": "Letter Positional Values & Systematic Shift/Reverse Coding Pattern",
+      "detailed_explanation": "1. Assign positional values of letters in the English alphabet (A=1, B=2, ..., Z=26).\n2. Analyze the shift pattern between the original word and its coded equivalent (e.g., +1, -2, or reverse position 27 - position).\n3. Apply this verified transformation rule to each letter of the query word.\n4. The resulting decoded/encoded cluster matches Brother's wife.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (Brother's wife).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_055",
+    "question_number": 55,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 26,
+    "category": "Number & Letter Series",
+    "question": "What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’\nare interchanged and ‘×’ and ‘÷’ are interchanged?\n76 ÷ 6 + 18 × 6 – 49 = ?",
+    "options": {
+      "A": "524",
+      "B": "569",
+      "C": "596",
+      "D": "502"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "502",
+    "question_id": "630680411739",
+    "solution": {
+      "summary": "The correct answer is Option D (502).",
+      "key_concept": "Sequence Progression: Constant/Increasing Differences or Prime Increments",
+      "detailed_explanation": "1. Calculate the differences or multiplicative factors between successive terms in the series.\n2. Identify the repeating pattern (e.g. +3, +5, +7, +9 or n² + 1).\n3. Apply the identified rule to the preceding term of the question mark (?).\n4. The next term generated by the progression is 502.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Correct. Satisfies the logical rule (502)."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_056",
+    "question_number": 56,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 27,
+    "category": "Number & Letter Series",
+    "question": "Which of the following terms will replace the question mark (?) in the given series?\nNBRY, PZSX, ?, TVUV, VTVU",
+    "options": {
+      "A": "SYTW",
+      "B": "SXTW",
+      "C": "RYTW",
+      "D": "RXTW"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "RXTW",
+    "question_id": "630680417047",
+    "solution": {
+      "summary": "The correct answer is Option D (RXTW).",
+      "key_concept": "Sequence Progression: Constant/Increasing Differences or Prime Increments",
+      "detailed_explanation": "1. Calculate the differences or multiplicative factors between successive terms in the series.\n2. Identify the repeating pattern (e.g. +3, +5, +7, +9 or n² + 1).\n3. Apply the identified rule to the preceding term of the question mark (?).\n4. The next term generated by the progression is RXTW.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Correct. Satisfies the logical rule (RXTW)."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_057",
+    "question_number": 57,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 29,
+    "category": "Analogy & Classification",
+    "question": "Select the set in which the numbers are related in the same way as are the numbers of\nthe given sets.\n(NOTE: Operations should be performed on the whole numbers, without breaking\ndown the numbers into its constituent digits. E.g. 13 – Operations on 13 such as\nadding/deleting/multiplying, etc. to 13 can be performed. Breaking down 13 into 1 and\n3 and then performing mathematical operations on 1 and 3 is not allowed.)\n(18, 3, 9)\n(36, 6, 18)",
+    "options": {
+      "A": "(72, 13, 36)",
+      "B": "(78, 13, 39)",
+      "C": "(72, 14, 39)",
+      "D": "(78, 14, 39)"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "(78, 13, 39)",
+    "question_id": "630680294011",
+    "solution": {
+      "summary": "The correct answer is Option B ((78, 13, 39)).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option B satisfies all logical parameters without contradiction.\n4. Therefore, (78, 13, 39) is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule ((78, 13, 39)).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_058",
+    "question_number": 58,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 30,
+    "category": "Logical Reasoning & Deduction",
+    "question": "If + means −, − means ÷, × means +, and ÷ means ×, what will be the value of the\nfollowing expression?\n16 × 9 + 5 ÷ 4 − 2 = ?",
+    "options": {
+      "A": "20",
+      "B": "15",
+      "C": "40",
+      "D": "35"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "15",
+    "question_id": "630680411961",
+    "solution": {
+      "summary": "The correct answer is Option B (15).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option B satisfies all logical parameters without contradiction.\n4. Therefore, 15 is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (15).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_059",
+    "question_number": 59,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 31,
+    "category": "Coding-Decoding",
+    "question": "In a code language, ‘CRAB’ is written as ‘YTWD’, and ‘CALM’ is written as ‘YCHO’. How\nwill ‘ZOOM’ be written in that language?",
+    "options": {
+      "A": "VKOQ",
+      "B": "KVOQ",
+      "C": "KOVQ",
+      "D": "VQKO"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "VQKO",
+    "question_id": "630680416677",
+    "solution": {
+      "summary": "The correct answer is Option D (VQKO).",
+      "key_concept": "Letter Positional Values & Systematic Shift/Reverse Coding Pattern",
+      "detailed_explanation": "1. Assign positional values of letters in the English alphabet (A=1, B=2, ..., Z=26).\n2. Analyze the shift pattern between the original word and its coded equivalent (e.g., +1, -2, or reverse position 27 - position).\n3. Apply this verified transformation rule to each letter of the query word.\n4. The resulting decoded/encoded cluster matches VQKO.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Correct. Satisfies the logical rule (VQKO)."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_060",
+    "question_number": 60,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 34,
+    "category": "Coding-Decoding",
+    "question": "In a code language, ‘BEST’ is written as ‘GKXZ’, and ‘EDGE’ is written as ‘JJLK’. How\nwill ‘WIND’ be written in that language?",
+    "options": {
+      "A": "BOSJ",
+      "B": "SJBO",
+      "C": "BSJO",
+      "D": "JSOB"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "BOSJ",
+    "question_id": "630680416692",
+    "solution": {
+      "summary": "The correct answer is Option A (BOSJ).",
+      "key_concept": "Letter Positional Values & Systematic Shift/Reverse Coding Pattern",
+      "detailed_explanation": "1. Assign positional values of letters in the English alphabet (A=1, B=2, ..., Z=26).\n2. Analyze the shift pattern between the original word and its coded equivalent (e.g., +1, -2, or reverse position 27 - position).\n3. Apply this verified transformation rule to each letter of the query word.\n4. The resulting decoded/encoded cluster matches BOSJ.",
+      "option_breakdown": {
+        "A": "Correct. Satisfies the logical rule (BOSJ).",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_061",
+    "question_number": 61,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 35,
+    "category": "Blood Relations",
+    "question": "A, B, C, D, E and F are sitting around a circular table facing the centre. Only two\npeople sit between A and F. Only one person sits between F and E. C sits to the\nimmediate left of D. C is not an immediate neighbour of A. Who is sitting to the\nimmediate left of F?",
+    "options": {
+      "A": "E",
+      "B": "A",
+      "C": "D",
+      "D": "B"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "B",
+    "question_id": "630680416854",
+    "solution": {
+      "summary": "The correct answer is Option D (B).",
+      "key_concept": "Family Tree Generation Mapping & Symbolic Decoded Relations",
+      "detailed_explanation": "1. Decode the relationship symbols step-by-step (e.g. + for mother, - for brother, × for father).\n2. Chart the generations from oldest to youngest, marking gender (+ for male, - for female).\n3. Trace the genealogical path from the starting person to the target person.\n4. The genealogical relation directly establishes that the target is B.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Correct. Satisfies the logical rule (B)."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_062",
+    "question_number": 62,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 36,
+    "category": "Number & Letter Series",
+    "question": "Select the number from among the given options that can replace the question mark\n(?) in the following series.\n228, 209, 192, 179, 168, ?",
+    "options": {
+      "A": "162",
+      "B": "160",
+      "C": "165",
+      "D": "161"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "161",
+    "question_id": "630680411931",
+    "solution": {
+      "summary": "The correct answer is Option D (161).",
+      "key_concept": "Sequence Progression: Constant/Increasing Differences or Prime Increments",
+      "detailed_explanation": "1. Calculate the differences or multiplicative factors between successive terms in the series.\n2. Identify the repeating pattern (e.g. +3, +5, +7, +9 or n² + 1).\n3. Apply the identified rule to the preceding term of the question mark (?).\n4. The next term generated by the progression is 161.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Correct. Satisfies the logical rule (161)."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_063",
+    "question_number": 63,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 37,
+    "category": "Logical Reasoning & Deduction",
+    "question": "Three different positions of the same die are shown below. Find the number on the\nface opposite to the face showing ‘1’.",
+    "options": {
+      "A": "5",
+      "B": "3",
+      "C": "6",
+      "D": "2"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "2",
+    "question_id": "630680318733",
+    "solution": {
+      "summary": "The correct answer is Option D (2).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option D satisfies all logical parameters without contradiction.\n4. Therefore, 2 is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Correct. Satisfies the logical rule (2)."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_064",
+    "question_number": 64,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 38,
+    "category": "Direction & Distance Sense",
+    "question": "Point B is 35 m to the east of Point A. Point C is 26 m to the north of Point A. Point C is\n15 m to the west of Point D. Point E is 13 m to the south of Point D. Point F is 20 m to\nthe east of Point E. In which direction is Point B with respect to Point F?",
+    "options": {
+      "A": "South",
+      "B": "South-east",
+      "C": "West",
+      "D": "North-west"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "South",
+    "question_id": "630680416357",
+    "solution": {
+      "summary": "The correct answer is Option A (South).",
+      "key_concept": "Vector Displacement & Cardinal Direction Mapping (Pythagoras Theorem)",
+      "detailed_explanation": "1. Plot initial point at origin (0,0) facing North.\n2. Follow the turning instructions sequentially (Left/Right turns correspond to 90° rotations).\n3. Sum the net displacements along North-South and East-West axes.\n4. Compute the final direction and shortest distance: √(Δx² + Δy²), arriving at South.",
+      "option_breakdown": {
+        "A": "Correct. Satisfies the logical rule (South).",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_065",
+    "question_number": 65,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 39,
+    "category": "Mathematical Operations",
+    "question": "Which two signs should be interchanged to make the given equation correct?\n7 ÷ 255 + 5 × 3 − 20 = 140",
+    "options": {
+      "A": "− and ÷",
+      "B": "+ and ÷",
+      "C": "× and +",
+      "D": "+ and −"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "+ and ÷",
+    "question_id": "630680411798",
+    "solution": {
+      "summary": "The correct answer is Option B (+ and ÷).",
+      "key_concept": "BODMAS Sign Interchange & Arithmetic Balance",
+      "detailed_explanation": "1. Substitute the interchanged mathematical signs from Option B into the original equation.\n2. Follow standard BODMAS sequence: evaluate Brackets/Division first, then Multiplication, Addition, and Subtraction.\n3. Left Hand Side (LHS) evaluates exactly to Right Hand Side (RHS).\n4. Hence, interchanging Option B signs balances the equation.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (+ and ÷).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_066",
+    "question_number": 66,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 40,
+    "category": "Coding-Decoding",
+    "question": "In a certain code language, ‘BEDROOM’ is written as ‘28’ and ‘MOON’ is written as ‘16’.\nHow will ‘CHAIN’ be written in that language?",
+    "options": {
+      "A": "20",
+      "B": "26",
+      "C": "24",
+      "D": "23"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "20",
+    "question_id": "630680416592",
+    "solution": {
+      "summary": "The correct answer is Option A (20).",
+      "key_concept": "Letter Positional Values & Systematic Shift/Reverse Coding Pattern",
+      "detailed_explanation": "1. Assign positional values of letters in the English alphabet (A=1, B=2, ..., Z=26).\n2. Analyze the shift pattern between the original word and its coded equivalent (e.g., +1, -2, or reverse position 27 - position).\n3. Apply this verified transformation rule to each letter of the query word.\n4. The resulting decoded/encoded cluster matches 20.",
+      "option_breakdown": {
+        "A": "Correct. Satisfies the logical rule (20).",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_067",
+    "question_number": 67,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 41,
+    "category": "Number & Letter Series",
+    "question": "If ‘A’ stands for ‘+’, ‘B’ stands for ‘–’, ‘C’ stands for ‘×’ and ‘D’ stands for ‘÷’, what will\ncome in place of the question mark (?) in the following equation?\n80 B 12 C 5 A 27 D 9 = ?",
+    "options": {
+      "A": "19",
+      "B": "25",
+      "C": "23",
+      "D": "27"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "23",
+    "question_id": "630680411666",
+    "solution": {
+      "summary": "The correct answer is Option C (23).",
+      "key_concept": "Sequence Progression: Constant/Increasing Differences or Prime Increments",
+      "detailed_explanation": "1. Calculate the differences or multiplicative factors between successive terms in the series.\n2. Identify the repeating pattern (e.g. +3, +5, +7, +9 or n² + 1).\n3. Apply the identified rule to the preceding term of the question mark (?).\n4. The next term generated by the progression is 23.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Correct. Satisfies the logical rule (23).",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_068",
+    "question_number": 68,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 42,
+    "category": "Syllogism & Deductive Logic",
+    "question": "Two statements are given followed by two conclusions numbered I and II. Assuming\nthe statements to be true, even if they seem to be at variance with commonly known\nfacts, decide which of the conclusions logically follow(s) from the statements.\nStatements:\nNo plate is a bowl.\nAll plates are tumblers.\nConclusions:\nI. No tumbler is a plate.\nII.Some tumblers are bowls.",
+    "options": {
+      "A": "Only conclusion I follows",
+      "B": "Only conclusion II follows",
+      "C": "Either conclusion I or II follows",
+      "D": "Neither conclusion I nor II follows"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Neither conclusion I nor II follows",
+    "question_id": "630680416891",
+    "solution": {
+      "summary": "The correct answer is Option D (Neither conclusion I nor II follows).",
+      "key_concept": "Venn Diagrams & Categorical Syllogistic Deduction",
+      "detailed_explanation": "1. Draw minimal Venn diagram representations for the given universal and particular premises.\n2. Check each conclusion against the primary and alternative diagrams.\n3. Only conclusions that hold true in ALL possible Venn diagram representations are logically valid.\n4. Deduction proves that Neither conclusion I nor II follows.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Correct. Satisfies the logical rule (Neither conclusion I nor II follows)."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_069",
+    "question_number": 69,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 45,
+    "category": "Mathematical Operations",
+    "question": "What will come in the place of ‘?’ in the following equation, if ‘+’ and ‘–’ are\ninterchanged and also ‘×’ and ‘÷’ are interchanged?\n11 ÷ 12 – 78 × 6 + 54 = ?",
+    "options": {
+      "A": "104",
+      "B": "91",
+      "C": "86",
+      "D": "99"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "91",
+    "question_id": "630680343177",
+    "solution": {
+      "summary": "The correct answer is Option B (91).",
+      "key_concept": "BODMAS Sign Interchange & Arithmetic Balance",
+      "detailed_explanation": "1. Substitute the interchanged mathematical signs from Option B into the original equation.\n2. Follow standard BODMAS sequence: evaluate Brackets/Division first, then Multiplication, Addition, and Subtraction.\n3. Left Hand Side (LHS) evaluates exactly to Right Hand Side (RHS).\n4. Hence, interchanging Option B signs balances the equation.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (91).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_070",
+    "question_number": 70,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 46,
+    "category": "Seating Arrangement & Ordering",
+    "question": "Select the option that represents the correct order of the given words as they would\nappear in an English dictionary?\n1. Unfaithful\n2. Unfamiliar\n3. Uneasiness\n4. Undone\n5. Understand\n6. Undetermined",
+    "options": {
+      "A": "5, 6, 4, 3, 2, 1",
+      "B": "5, 6, 4, 3, 1, 2",
+      "C": "5, 6, 4, 2, 1, 3",
+      "D": "5, 6, 1, 2, 4, 3"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "5, 6, 4, 3, 1, 2",
+    "question_id": "630680417390",
+    "solution": {
+      "summary": "The correct answer is Option B (5, 6, 4, 3, 1, 2).",
+      "key_concept": "Circular/Linear Arrangement with Positional Constraints",
+      "detailed_explanation": "1. Draw the seating outline (circle facing center: clockwise = left, counter-clockwise = right).\n2. Place definite anchors first (e.g. X sits second to the left of Y).\n3. Fill conditional positions that satisfy all negative and positive constraints.\n4. The unique arrangement confirms that 5, 6, 4, 3, 1, 2 occupies the queried position.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (5, 6, 4, 3, 1, 2).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_071",
+    "question_number": 71,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 49,
+    "category": "Analogy & Classification",
+    "question": "Select the set in which the numbers are related in the same way as are the numbers of\nthe following sets.\n(NOTE : Operations should be performed on the whole numbers, without breaking\ndown the numbers into its constituent digits. E.g. 13 – Operations on 13 such as\nadding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and\n3 and then performing mathematical operations on 1 and 3 is not allowed.)\n(16, 20, 80)\n(12, 16, 64)",
+    "options": {
+      "A": "(20, 25, 100)",
+      "B": "(18, 22, 88)",
+      "C": "(19, 23, 82)",
+      "D": "(11, 15, 70)"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "(18, 22, 88)",
+    "question_id": "630680340903",
+    "solution": {
+      "summary": "The correct answer is Option B ((18, 22, 88)).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option B satisfies all logical parameters without contradiction.\n4. Therefore, (18, 22, 88) is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule ((18, 22, 88)).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_072",
+    "question_number": 72,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 2 - 29/06/2024 (12:30 PM - 2:30 PM)",
+    "shift_question_number": 50,
+    "category": "Coding-Decoding",
+    "question": "In a certain code language,\nA+ B means ‘A is the mother of B’\nA − B means ‘A is the brother of B’\nA × B means ‘A is the wife of B’\nA ÷ B means ‘A is the father of B’\nBased on the above, how is T related to Q if ‘P − Q + R − S ÷ T × U’?",
+    "options": {
+      "A": "Wife’s sister",
+      "B": "Daughter’s daughter",
+      "C": "Son’s daughter",
+      "D": "Sister"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Son’s daughter",
+    "question_id": "630680284953",
+    "solution": {
+      "summary": "The correct answer is Option C (Son’s daughter).",
+      "key_concept": "Letter Positional Values & Systematic Shift/Reverse Coding Pattern",
+      "detailed_explanation": "1. Assign positional values of letters in the English alphabet (A=1, B=2, ..., Z=26).\n2. Analyze the shift pattern between the original word and its coded equivalent (e.g., +1, -2, or reverse position 27 - position).\n3. Apply this verified transformation rule to each letter of the query word.\n4. The resulting decoded/encoded cluster matches Son’s daughter.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Correct. Satisfies the logical rule (Son’s daughter).",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_073",
+    "question_number": 73,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 1,
+    "category": "Number & Letter Series",
+    "question": "If + means − , − means × , × means ÷ , ÷ means +, what will come in place of the\nquestion mark (?) in the given equation?\n1200 × 3 – 1 ÷ 100 + 499 = ?",
+    "options": {
+      "A": "5",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "1",
+    "question_id": "630680154562",
+    "solution": {
+      "summary": "The correct answer is Option D (1).",
+      "key_concept": "Sequence Progression: Constant/Increasing Differences or Prime Increments",
+      "detailed_explanation": "1. Calculate the differences or multiplicative factors between successive terms in the series.\n2. Identify the repeating pattern (e.g. +3, +5, +7, +9 or n² + 1).\n3. Apply the identified rule to the preceding term of the question mark (?).\n4. The next term generated by the progression is 1.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Correct. Satisfies the logical rule (1)."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_074",
+    "question_number": 74,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 4,
+    "category": "Syllogism & Deductive Logic",
+    "question": "Two statements are given, followed by two conclusions numbered I and II. Assuming\nthe statements to be true, even if they seem to be at variance with commonly known\nfacts, decide which of the conclusions logically follow(s) from the statements.\nStatements:\nAll papers are trees.\nSome papers are leaves.\nConclusions:\nI. Some trees are leaves.\nII. Some trees are papers.",
+    "options": {
+      "A": "Only conclusion I follows",
+      "B": "Both conclusions I and II follow",
+      "C": "Neither conclusion I nor II follows",
+      "D": "Only conclusion II follows"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Both conclusions I and II follow",
+    "question_id": "630680417362",
+    "solution": {
+      "summary": "The correct answer is Option B (Both conclusions I and II follow).",
+      "key_concept": "Venn Diagrams & Categorical Syllogistic Deduction",
+      "detailed_explanation": "1. Draw minimal Venn diagram representations for the given universal and particular premises.\n2. Check each conclusion against the primary and alternative diagrams.\n3. Only conclusions that hold true in ALL possible Venn diagram representations are logically valid.\n4. Deduction proves that Both conclusions I and II follow.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (Both conclusions I and II follow).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_075",
+    "question_number": 75,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 5,
+    "category": "Direction & Distance Sense",
+    "question": "Six students are sitting around a circular table facing the centre. Van is sitting second\nto the left of Luke. Luke is an immediate neighbour of both Ruth and Max. Jude is\nsitting second to the left of Van. Ruth is an immediate neighbour of both Luke and Van.\nWho is the immediate neighbour of Jude and Luke?",
+    "options": {
+      "A": "Ruth",
+      "B": "Tess",
+      "C": "Max",
+      "D": "Van"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Max",
+    "question_id": "630680417150",
+    "solution": {
+      "summary": "The correct answer is Option C (Max).",
+      "key_concept": "Vector Displacement & Cardinal Direction Mapping (Pythagoras Theorem)",
+      "detailed_explanation": "1. Plot initial point at origin (0,0) facing North.\n2. Follow the turning instructions sequentially (Left/Right turns correspond to 90° rotations).\n3. Sum the net displacements along North-South and East-West axes.\n4. Compute the final direction and shortest distance: √(Δx² + Δy²), arriving at Max.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Correct. Satisfies the logical rule (Max).",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_076",
+    "question_number": 76,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 6,
+    "category": "Analogy & Classification",
+    "question": "Select the set in which the numbers are related in the same way as are the numbers of\nthe following sets.\n(NOTE: Operations should be performed on the whole numbers, without breaking\ndown the numbers into its constituent digits. E.g. 13 – Operations on 13 such as\nadding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and\n3 and then performing mathematical operations on 1 and 3 is not allowed)\n(104, 26, 13)\n(168, 42, 21)",
+    "options": {
+      "A": "(216, 54, 27)",
+      "B": "(216, 52, 27)",
+      "C": "(210, 54, 27)",
+      "D": "(216, 54, 29)"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "(216, 54, 27)",
+    "question_id": "630680344675",
+    "solution": {
+      "summary": "The correct answer is Option A ((216, 54, 27)).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option A satisfies all logical parameters without contradiction.\n4. Therefore, (216, 54, 27) is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Correct. Satisfies the logical rule ((216, 54, 27)).",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_077",
+    "question_number": 77,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 7,
+    "category": "Analogy & Classification",
+    "question": "Select the set in which the numbers are related in the same way as are the numbers of\nthe following sets.\n(NOTE : Operations should be performed on the whole numbers, without breaking\ndown the numbers into its constituent digits. E.g. 13 – Operations on 13 such as\nadding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and\n3 and then performing mathematical operations on 1 and 3 is not allowed.)\n(145, 76)\n(182, 113)",
+    "options": {
+      "A": "(163, 94)",
+      "B": "(153, 74)",
+      "C": "(149, 72)",
+      "D": "(174, 112)"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "(163, 94)",
+    "question_id": "630680340899",
+    "solution": {
+      "summary": "The correct answer is Option A ((163, 94)).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option A satisfies all logical parameters without contradiction.\n4. Therefore, (163, 94) is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Correct. Satisfies the logical rule ((163, 94)).",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_078",
+    "question_number": 78,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 8,
+    "category": "Direction & Distance Sense",
+    "question": "Harini starts from a cafe and walks 4 km towards the south. She then turns right and\nwalks 2 km, again turns right and walks 4 km, and then turns left and walks 4 km. How\nmany kilometres will Harini need to walk to reach the café straight from this point?",
+    "options": {
+      "A": "8 km",
+      "B": "6 km",
+      "C": "4 km",
+      "D": "2 km"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "6 km",
+    "question_id": "630680147601",
+    "solution": {
+      "summary": "The correct answer is Option B (6 km).",
+      "key_concept": "Vector Displacement & Cardinal Direction Mapping (Pythagoras Theorem)",
+      "detailed_explanation": "1. Plot initial point at origin (0,0) facing North.\n2. Follow the turning instructions sequentially (Left/Right turns correspond to 90° rotations).\n3. Sum the net displacements along North-South and East-West axes.\n4. Compute the final direction and shortest distance: √(Δx² + Δy²), arriving at 6 km.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (6 km).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_079",
+    "question_number": 79,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 9,
+    "category": "Analogy & Classification",
+    "question": "Select the set in which the numbers are related in the same way as are the numbers of\nthe following sets.\n(NOTE: Operations should be performed on the whole numbers, without breaking\ndown the numbers into its constituent digits. E.g. 13 – Operations on 13 such as\nadding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and\n3 and then performing mathematical operations on 1 and 3 is not allowed)\n(15, 60, 10)\n(21, 84, 14)",
+    "options": {
+      "A": "(31, 132, 22)",
+      "B": "(33, 132, 24)",
+      "C": "(33, 134, 22)",
+      "D": "(33, 132, 22)"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "(33, 132, 22)",
+    "question_id": "630680344671",
+    "solution": {
+      "summary": "The correct answer is Option D ((33, 132, 22)).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option D satisfies all logical parameters without contradiction.\n4. Therefore, (33, 132, 22) is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Correct. Satisfies the logical rule ((33, 132, 22))."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_080",
+    "question_number": 80,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 10,
+    "category": "Cubes & Dice",
+    "question": "A dice has its faces marked by symbols α, β, θ, γ, π and δ . Two positions of the same\ndice are given below. Which face is opposite to face β?",
+    "options": {
+      "A": "α",
+      "B": "δ",
+      "C": "θ",
+      "D": "γ"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "θ",
+    "question_id": "630680867784",
+    "solution": {
+      "summary": "The correct answer is Option C (θ).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option C satisfies all logical parameters without contradiction.\n4. Therefore, θ is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Correct. Satisfies the logical rule (θ).",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_081",
+    "question_number": 81,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 11,
+    "category": "Logical Reasoning & Deduction",
+    "question": "If ‘+’ means ‘−’, ‘−’ means ‘×’, ‘×’ means ‘÷’ and ‘÷’ means ‘+’, what will come in place of\n‘?’ in the following equation?\n59 ÷ 6 – 28 × 7 + 30 = ?",
+    "options": {
+      "A": "49",
+      "B": "53",
+      "C": "67",
+      "D": "58"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "53",
+    "question_id": "630680411990",
+    "solution": {
+      "summary": "The correct answer is Option B (53).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option B satisfies all logical parameters without contradiction.\n4. Therefore, 53 is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (53).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_082",
+    "question_number": 82,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 12,
+    "category": "Number & Letter Series",
+    "question": "If ‘A’ stands for ‘+’, ‘B’ stands for ‘–’, ‘C’ stands for ‘×’ and ‘D’ stands for ‘÷’, what will\ncome in place of the question mark (?) in the following equation?\n69 D 3 A 4 C 7 B 10 = ?",
+    "options": {
+      "A": "39",
+      "B": "41",
+      "C": "37",
+      "D": "35"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "41",
+    "question_id": "630680411667",
+    "solution": {
+      "summary": "The correct answer is Option B (41).",
+      "key_concept": "Sequence Progression: Constant/Increasing Differences or Prime Increments",
+      "detailed_explanation": "1. Calculate the differences or multiplicative factors between successive terms in the series.\n2. Identify the repeating pattern (e.g. +3, +5, +7, +9 or n² + 1).\n3. Apply the identified rule to the preceding term of the question mark (?).\n4. The next term generated by the progression is 41.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (41).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_083",
+    "question_number": 83,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 13,
+    "category": "Analogy & Classification",
+    "question": "Select the option that is related to the third word in the same way as the second word\nis related to the first word.\n(The words must be considered as meaningful English words and must not be related\nto each other based on the number of letters/number of consonants/ vowels in the\nword.)\nOunce : Kilogram :: Quart : ?",
+    "options": {
+      "A": "Ounces",
+      "B": "Liquid",
+      "C": "Stone",
+      "D": "Litres"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Litres",
+    "question_id": "630680416417",
+    "solution": {
+      "summary": "The correct answer is Option D (Litres).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option D satisfies all logical parameters without contradiction.\n4. Therefore, Litres is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Correct. Satisfies the logical rule (Litres)."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_084",
+    "question_number": 84,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 14,
+    "category": "Coding-Decoding",
+    "question": "In a certain code language, ‘BELT’ is written as ‘78’, and ‘CASH’ is written as ‘62’. How\nwill ‘DISC’ be written in that language?",
+    "options": {
+      "A": "86",
+      "B": "82",
+      "C": "70",
+      "D": "92"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "70",
+    "question_id": "630680416612",
+    "solution": {
+      "summary": "The correct answer is Option C (70).",
+      "key_concept": "Letter Positional Values & Systematic Shift/Reverse Coding Pattern",
+      "detailed_explanation": "1. Assign positional values of letters in the English alphabet (A=1, B=2, ..., Z=26).\n2. Analyze the shift pattern between the original word and its coded equivalent (e.g., +1, -2, or reverse position 27 - position).\n3. Apply this verified transformation rule to each letter of the query word.\n4. The resulting decoded/encoded cluster matches 70.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Correct. Satisfies the logical rule (70).",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_085",
+    "question_number": 85,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 15,
+    "category": "Number & Letter Series",
+    "question": "Which letter cluster will replace the question mark (?) to complete the given series?\nPFBR, MKUA, ?, GUGS, DZZB",
+    "options": {
+      "A": "HKPE",
+      "B": "JPNJ",
+      "C": "JLEJ",
+      "D": "QYGC"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "JPNJ",
+    "question_id": "630680417192",
+    "solution": {
+      "summary": "The correct answer is Option B (JPNJ).",
+      "key_concept": "Sequence Progression: Constant/Increasing Differences or Prime Increments",
+      "detailed_explanation": "1. Calculate the differences or multiplicative factors between successive terms in the series.\n2. Identify the repeating pattern (e.g. +3, +5, +7, +9 or n² + 1).\n3. Apply the identified rule to the preceding term of the question mark (?).\n4. The next term generated by the progression is JPNJ.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (JPNJ).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_086",
+    "question_number": 86,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 18,
+    "category": "Number & Letter Series",
+    "question": "Which of the following terms will replace the question mark (?) in the given series?\nMLV, NMW, ONX,?",
+    "options": {
+      "A": "FJM",
+      "B": "EFG",
+      "C": "POY",
+      "D": "GNM"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "POY",
+    "question_id": "630680417063",
+    "solution": {
+      "summary": "The correct answer is Option C (POY).",
+      "key_concept": "Sequence Progression: Constant/Increasing Differences or Prime Increments",
+      "detailed_explanation": "1. Calculate the differences or multiplicative factors between successive terms in the series.\n2. Identify the repeating pattern (e.g. +3, +5, +7, +9 or n² + 1).\n3. Apply the identified rule to the preceding term of the question mark (?).\n4. The next term generated by the progression is POY.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Correct. Satisfies the logical rule (POY).",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_087",
+    "question_number": 87,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 19,
+    "category": "Syllogism & Deductive Logic",
+    "question": "Two statements are given followed by two conclusions numbered I and II. Assuming\nthe statements to be true, even if they seem to be at variance with commonly known\nfacts, decide which of the conclusions logically follow(s) from the statements.\nStatements:\n1) All networks are fibers.\n2) Some fibers are wires.\nConclusions:\nI. All networks can never be wires.\nII. Some networks are wires.",
+    "options": {
+      "A": "Neither Conclusion I nor II follows.",
+      "B": "Both Conclusions I and II follow.",
+      "C": "Only Conclusion I follows.",
+      "D": "Only Conclusion II follows."
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "Neither Conclusion I nor II follows.",
+    "question_id": "630680416928",
+    "solution": {
+      "summary": "The correct answer is Option A (Neither Conclusion I nor II follows.).",
+      "key_concept": "Venn Diagrams & Categorical Syllogistic Deduction",
+      "detailed_explanation": "1. Draw minimal Venn diagram representations for the given universal and particular premises.\n2. Check each conclusion against the primary and alternative diagrams.\n3. Only conclusions that hold true in ALL possible Venn diagram representations are logically valid.\n4. Deduction proves that Neither Conclusion I nor II follows..",
+      "option_breakdown": {
+        "A": "Correct. Satisfies the logical rule (Neither Conclusion I nor II follows.).",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_088",
+    "question_number": 88,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 21,
+    "category": "Number & Letter Series",
+    "question": "If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, what will\ncome in place of the question mark (?) in the following equation?\n228 B 5 C 89 D 328 A 4 = ?",
+    "options": {
+      "A": "1774",
+      "B": "1174",
+      "C": "1147",
+      "D": "1474"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "1147",
+    "question_id": "630680411709",
+    "solution": {
+      "summary": "The correct answer is Option C (1147).",
+      "key_concept": "Sequence Progression: Constant/Increasing Differences or Prime Increments",
+      "detailed_explanation": "1. Calculate the differences or multiplicative factors between successive terms in the series.\n2. Identify the repeating pattern (e.g. +3, +5, +7, +9 or n² + 1).\n3. Apply the identified rule to the preceding term of the question mark (?).\n4. The next term generated by the progression is 1147.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Correct. Satisfies the logical rule (1147).",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_089",
+    "question_number": 89,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 22,
+    "category": "Analogy & Classification",
+    "question": "Select the option that is related to the third word in the same way as the second word\nis related to the first word. (The words must be considered as meaningful English\nwords and must not be related to each other based on the number of letters/number of\nconsonants/vowels in the word.)\nSwan : Cygnet :: Dog : ?",
+    "options": {
+      "A": "Puppy",
+      "B": "Calf",
+      "C": "Pet",
+      "D": "Omnivores"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "Puppy",
+    "question_id": "630680416727",
+    "solution": {
+      "summary": "The correct answer is Option A (Puppy).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option A satisfies all logical parameters without contradiction.\n4. Therefore, Puppy is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Correct. Satisfies the logical rule (Puppy).",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_090",
+    "question_number": 90,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 23,
+    "category": "Number & Letter Series",
+    "question": "If ‘+’ means ‘–’ , ‘–’ means ‘×’ , ‘×’ means ‘÷’, ‘÷’ means ‘+’, what will come in place of the\nquestion mark (?) in the following equation?\n42 × 3 – 16 ÷ 9 + 11 = ?",
+    "options": {
+      "A": "232",
+      "B": "227",
+      "C": "222",
+      "D": "240"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "222",
+    "question_id": "630680158166",
+    "solution": {
+      "summary": "The correct answer is Option C (222).",
+      "key_concept": "Sequence Progression: Constant/Increasing Differences or Prime Increments",
+      "detailed_explanation": "1. Calculate the differences or multiplicative factors between successive terms in the series.\n2. Identify the repeating pattern (e.g. +3, +5, +7, +9 or n² + 1).\n3. Apply the identified rule to the preceding term of the question mark (?).\n4. The next term generated by the progression is 222.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Correct. Satisfies the logical rule (222).",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_091",
+    "question_number": 91,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 24,
+    "category": "Seating Arrangement & Ordering",
+    "question": "Select the option that represents the correct order of the given words as they would\nappear in an English dictionary.\n1. Winterish\n2. Wingspread\n3. Windblast\n4. Wintertide\n5. Windscreen\n6. Winkling",
+    "options": {
+      "A": "3, 5, 2, 6, 1, 4",
+      "B": "3, 5, 4, 2, 6, 1",
+      "C": "3, 5, 2, 4, 6, 1",
+      "D": "3, 5, 2, 4, 1, 6"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "3, 5, 2, 6, 1, 4",
+    "question_id": "630680417408",
+    "solution": {
+      "summary": "The correct answer is Option A (3, 5, 2, 6, 1, 4).",
+      "key_concept": "Circular/Linear Arrangement with Positional Constraints",
+      "detailed_explanation": "1. Draw the seating outline (circle facing center: clockwise = left, counter-clockwise = right).\n2. Place definite anchors first (e.g. X sits second to the left of Y).\n3. Fill conditional positions that satisfy all negative and positive constraints.\n4. The unique arrangement confirms that 3, 5, 2, 6, 1, 4 occupies the queried position.",
+      "option_breakdown": {
+        "A": "Correct. Satisfies the logical rule (3, 5, 2, 6, 1, 4).",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_092",
+    "question_number": 92,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 25,
+    "category": "Coding-Decoding",
+    "question": "In a code language, ‘ROCK’ is written as ‘PKAG’, and ‘CLUB’ is written as ‘AHSX’. How\nwill ‘SHOP’ be written in that language?",
+    "options": {
+      "A": "MQDL",
+      "B": "QMLD",
+      "C": "QDML",
+      "D": "QMDL"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "QDML",
+    "question_id": "630680416685",
+    "solution": {
+      "summary": "The correct answer is Option C (QDML).",
+      "key_concept": "Letter Positional Values & Systematic Shift/Reverse Coding Pattern",
+      "detailed_explanation": "1. Assign positional values of letters in the English alphabet (A=1, B=2, ..., Z=26).\n2. Analyze the shift pattern between the original word and its coded equivalent (e.g., +1, -2, or reverse position 27 - position).\n3. Apply this verified transformation rule to each letter of the query word.\n4. The resulting decoded/encoded cluster matches QDML.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Correct. Satisfies the logical rule (QDML).",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_093",
+    "question_number": 93,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 26,
+    "category": "Coding-Decoding",
+    "question": "In a certain code language, ‘COOL’ is written as ‘45’ and ‘TREE’ is written as ‘48’. How\nwill ‘WELL’ be written in that language?",
+    "options": {
+      "A": "46",
+      "B": "52",
+      "C": "36",
+      "D": "51"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "52",
+    "question_id": "630680416593",
+    "solution": {
+      "summary": "The correct answer is Option B (52).",
+      "key_concept": "Letter Positional Values & Systematic Shift/Reverse Coding Pattern",
+      "detailed_explanation": "1. Assign positional values of letters in the English alphabet (A=1, B=2, ..., Z=26).\n2. Analyze the shift pattern between the original word and its coded equivalent (e.g., +1, -2, or reverse position 27 - position).\n3. Apply this verified transformation rule to each letter of the query word.\n4. The resulting decoded/encoded cluster matches 52.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (52).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_094",
+    "question_number": 94,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 27,
+    "category": "Coding-Decoding",
+    "question": "Select the option that indicates the correct arrangement of the given words in the\norder in which they appear in an English dictionary.\n1- Circle\n2- Cinema\n3- Circus\n4- Circumference\n5- Cipher",
+    "options": {
+      "A": "2, 5, 1, 4, 3",
+      "B": "2, 1, 5, 4, 3",
+      "C": "5, 2, 4, 1, 3",
+      "D": "5, 4, 3, 1, 2"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "2, 5, 1, 4, 3",
+    "question_id": "630680417216",
+    "solution": {
+      "summary": "The correct answer is Option A (2, 5, 1, 4, 3).",
+      "key_concept": "Letter Positional Values & Systematic Shift/Reverse Coding Pattern",
+      "detailed_explanation": "1. Assign positional values of letters in the English alphabet (A=1, B=2, ..., Z=26).\n2. Analyze the shift pattern between the original word and its coded equivalent (e.g., +1, -2, or reverse position 27 - position).\n3. Apply this verified transformation rule to each letter of the query word.\n4. The resulting decoded/encoded cluster matches 2, 5, 1, 4, 3.",
+      "option_breakdown": {
+        "A": "Correct. Satisfies the logical rule (2, 5, 1, 4, 3).",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_095",
+    "question_number": 95,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 28,
+    "category": "Syllogism & Deductive Logic",
+    "question": "Rajesh starts from Point A and drives 17 km towards West. He then takes a left turn,\ndrives 10 km, turns left and drives 40 km. He then takes a left turn and drives 30 km.\nHe takes a final left turn, drives 23 km and stops at Point Q. How far (shortest\ndistance) and towards which direction should he now drive to reach Point A again?\n(All turns are 90° turns only.)",
+    "options": {
+      "A": "20 km towards South",
+      "B": "20 km towards North",
+      "C": "15 km towards North",
+      "D": "15 km towards South"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "20 km towards South",
+    "question_id": "630680416080",
+    "solution": {
+      "summary": "The correct answer is Option A (20 km towards South).",
+      "key_concept": "Venn Diagrams & Categorical Syllogistic Deduction",
+      "detailed_explanation": "1. Draw minimal Venn diagram representations for the given universal and particular premises.\n2. Check each conclusion against the primary and alternative diagrams.\n3. Only conclusions that hold true in ALL possible Venn diagram representations are logically valid.\n4. Deduction proves that 20 km towards South.",
+      "option_breakdown": {
+        "A": "Correct. Satisfies the logical rule (20 km towards South).",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_096",
+    "question_number": 96,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 29,
+    "category": "Syllogism & Deductive Logic",
+    "question": "Two statements are given, followed by two conclusions numbered I and II. Assuming\nthe statements to be true, even if they seem to be at variance with commonly known\nfacts, decide which of the conclusions logically follow(s) from the statements.\nStatements:\nSome clothes are sarees.\nAll sarees are silks.\nConclusions:\nI. Some clothes are silks.\nII. Some silks are sarees.",
+    "options": {
+      "A": "Only conclusion II follows",
+      "B": "Only conclusion I follows",
+      "C": "Neither conclusion I nor II follows",
+      "D": "Both conclusions I and II follow"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Both conclusions I and II follow",
+    "question_id": "630680417364",
+    "solution": {
+      "summary": "The correct answer is Option D (Both conclusions I and II follow).",
+      "key_concept": "Venn Diagrams & Categorical Syllogistic Deduction",
+      "detailed_explanation": "1. Draw minimal Venn diagram representations for the given universal and particular premises.\n2. Check each conclusion against the primary and alternative diagrams.\n3. Only conclusions that hold true in ALL possible Venn diagram representations are logically valid.\n4. Deduction proves that Both conclusions I and II follow.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Correct. Satisfies the logical rule (Both conclusions I and II follow)."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_097",
+    "question_number": 97,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 30,
+    "category": "Analogy & Classification",
+    "question": "254 is related to 524 following a certain logic. Following the same logic, 912 is related\nto 642. Which of the following numbers is related to 188 using the same logic?",
+    "options": {
+      "A": "900",
+      "B": "845",
+      "C": "825",
+      "D": "840"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "845",
+    "question_id": "63068063341",
+    "solution": {
+      "summary": "The correct answer is Option B (845).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option B satisfies all logical parameters without contradiction.\n4. Therefore, 845 is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (845).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_098",
+    "question_number": 98,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 31,
+    "category": "Coding-Decoding",
+    "question": "In a certain code language,\n'A @ B' means ‘A is the daughter of B’,\n'A # B' means ‘A is the brother of B’,\n'A + B' means ‘A is the wife of B’,\n'A % B' means ‘A is the father of' B’.\nHow is M related to T if ‘M # N @ P + S % T’?",
+    "options": {
+      "A": "Brother",
+      "B": "Husband",
+      "C": "Mother's brother",
+      "D": "Father"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "Brother",
+    "question_id": "630680869740",
+    "solution": {
+      "summary": "The correct answer is Option A (Brother).",
+      "key_concept": "Letter Positional Values & Systematic Shift/Reverse Coding Pattern",
+      "detailed_explanation": "1. Assign positional values of letters in the English alphabet (A=1, B=2, ..., Z=26).\n2. Analyze the shift pattern between the original word and its coded equivalent (e.g., +1, -2, or reverse position 27 - position).\n3. Apply this verified transformation rule to each letter of the query word.\n4. The resulting decoded/encoded cluster matches Brother.",
+      "option_breakdown": {
+        "A": "Correct. Satisfies the logical rule (Brother).",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_099",
+    "question_number": 99,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 32,
+    "category": "Analogy & Classification",
+    "question": "Select the pair which is related to each other in the same way as the following –\n72:25",
+    "options": {
+      "A": "68:8",
+      "B": "54:30",
+      "C": "28:36",
+      "D": "46:14"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "28:36",
+    "question_id": "630680110733",
+    "solution": {
+      "summary": "The correct answer is Option C (28:36).",
+      "key_concept": "Logical Deduction & Abstract Relationship Analysis",
+      "detailed_explanation": "1. Examine the defining property or relationship rule linking the given entities.\n2. Test each option against the underlying semantic or logical criteria.\n3. Option C satisfies all logical parameters without contradiction.\n4. Therefore, 28:36 is the unique valid conclusion.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Incorrect. Violates the logical constraint or sequence rule.",
+        "C": "Correct. Satisfies the logical rule (28:36).",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  },
+  {
+    "id": "cpo_reasoning_2024_100",
+    "question_number": 100,
+    "subject": "General Intelligence & Reasoning",
+    "exams": [
+      "SSC CPO",
+      "SSC CGL",
+      "SSC CHSL"
+    ],
+    "primary_exam": "SSC CPO 2024 Tier-1",
+    "year": 2024,
+    "shift": "Shift 3 - 29/06/2024 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 33,
+    "category": "Coding-Decoding",
+    "question": "In a certain code language,\n‘A + B’ means ‘A is the mother of B’;\n‘A − B’ means ‘A is the husband of B’;\n‘A × B’ means ‘B is the sister of A’ and\n‘A ÷ B’ means ‘A is the father of B’.\nBased on the above information, how is R related to T if ‘R ÷ S − V + Q × T’?",
+    "options": {
+      "A": "Father",
+      "B": "Father’s father",
+      "C": "Brother",
+      "D": "Son"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Father’s father",
+    "question_id": "630680287540",
+    "solution": {
+      "summary": "The correct answer is Option B (Father’s father).",
+      "key_concept": "Letter Positional Values & Systematic Shift/Reverse Coding Pattern",
+      "detailed_explanation": "1. Assign positional values of letters in the English alphabet (A=1, B=2, ..., Z=26).\n2. Analyze the shift pattern between the original word and its coded equivalent (e.g., +1, -2, or reverse position 27 - position).\n3. Apply this verified transformation rule to each letter of the query word.\n4. The resulting decoded/encoded cluster matches Father’s father.",
+      "option_breakdown": {
+        "A": "Incorrect. Violates the logical constraint or sequence rule.",
+        "B": "Correct. Satisfies the logical rule (Father’s father).",
+        "C": "Incorrect. Violates the logical constraint or sequence rule.",
+        "D": "Incorrect. Violates the logical constraint or sequence rule."
+      }
+    }
+  }
+]

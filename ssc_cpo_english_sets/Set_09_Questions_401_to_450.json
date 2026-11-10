@@ -1,0 +1,902 @@
+[
+  {
+    "question_number": 401,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 1,
+    "category": "Grammar & English Usage",
+    "question": "Select the option that can be used as a one-word substitute for the given group of\nwords.\nA collection of historical documents or records providing information about a place,\ninstitution, or group of people",
+    "options": {
+      "A": "Museum",
+      "B": "Apostate",
+      "C": "Asylum",
+      "D": "Archive"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Archive",
+    "question_id": "264330164298"
+  },
+  {
+    "question_number": 402,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 2,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate idiom for the given situation focusing on the underlined\nsegment.\nThe modern era statistics data provides useful advantage to the players at competent\nlevel.",
+    "options": {
+      "A": "Cost an arm and a leg",
+      "B": "Grist to the mill",
+      "C": "Put something on ice",
+      "D": "Play it by ear"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Grist to the mill",
+    "question_id": "264330163409"
+  },
+  {
+    "question_number": 403,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 3,
+    "category": "Grammar & English Usage",
+    "question": "The following sentence has been divided into parts. One of them may contain an error.\nSelect the part that contains the error from the given options. If you don’t find any\nerror, mark ‘No error’ as your answer.\nWe should / not make an noise / in the class.",
+    "options": {
+      "A": "in the class",
+      "B": "We should",
+      "C": "No error",
+      "D": "not make an noise"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "not make an noise",
+    "question_id": "264330117174"
+  },
+  {
+    "question_number": 404,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 4,
+    "category": "Antonyms",
+    "question": "Identify the ANTONYM of the following word in the given sentence.\nLanguid\nThe animated infantry was marching forward for another rehearsal.",
+    "options": {
+      "A": "infantry",
+      "B": "rehearsal",
+      "C": "forward",
+      "D": "animated"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "animated",
+    "question_id": "264330167910"
+  },
+  {
+    "question_number": 405,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 5,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the given idiom.\nSteer clear of",
+    "options": {
+      "A": "Loose temper and react furiously to someone",
+      "B": "Avoid someone or something because it is dangerous for you",
+      "C": "Show someone how to do a job or activity",
+      "D": "Be kind and empathetic to someone"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Avoid someone or something because it is dangerous for you",
+    "question_id": "264330135998"
+  },
+  {
+    "question_number": 406,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 6,
+    "category": "Antonyms",
+    "question": "Select the most appropriate ANTONYM for the highlighted word.\nThe malice he developed for all caused a lot of damage.",
+    "options": {
+      "A": "avarice",
+      "B": "grace",
+      "C": "oppression",
+      "D": "sympathy"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "sympathy",
+    "question_id": "264330120741"
+  },
+  {
+    "question_number": 407,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 7,
+    "category": "Grammar & English Usage",
+    "question": "The following sentence has been divided into parts. One of them may contain an error.\nSelect the part that contains the error from the given options. If you don’t find any\nerror, mark ‘No error’ as your answer.\nI was wish / to meet her / on her birthday.",
+    "options": {
+      "A": "I was wish",
+      "B": "No error",
+      "C": "to meet her",
+      "D": "on her birthday"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "I was wish",
+    "question_id": "26433073521"
+  },
+  {
+    "question_number": 408,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 8,
+    "category": "Spotting Errors",
+    "question": "The following sentence has been split into four segments. Identify the segment that\ncontains a grammatical error.\nIt is take / a couple of minutes / for the computer / to boot up.",
+    "options": {
+      "A": "for the computer",
+      "B": "to boot up",
+      "C": "a couple of minutes",
+      "D": "It is take"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "It is take",
+    "question_id": "264330145277"
+  },
+  {
+    "question_number": 409,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 9,
+    "category": "Synonyms",
+    "question": "You are preparing a speech for an upcoming function. Select a synonym for the\nhighlighted word to make it better.\nSexual assault is a severe and pervasive issue that can have a significant impact on a\nvictim’s life.",
+    "options": {
+      "A": "Retrospective",
+      "B": "Longitudinal",
+      "C": "Widespread",
+      "D": "Equatorial"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Widespread",
+    "question_id": "264330121905"
+  },
+  {
+    "question_number": 410,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 10,
+    "category": "Spelling / Misspelt Words",
+    "question": "Select the INCORRECTLY spelt word.",
+    "options": {
+      "A": "Adjourn",
+      "B": "Addict",
+      "C": "Abdact",
+      "D": "Advise"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Abdact",
+    "question_id": "26433089398"
+  },
+  {
+    "question_number": 411,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 11,
+    "category": "Grammar & English Usage",
+    "question": "Choose the option which means the same as the underlined segment.\nThe boss wanted to finish the case before the arrival of the Inspection team.",
+    "options": {
+      "A": "be over and done with",
+      "B": "be over one’s head",
+      "C": "be over and over",
+      "D": "be over a barrel"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "be over and done with",
+    "question_id": "264330120535"
+  },
+  {
+    "question_number": 412,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 12,
+    "category": "Synonyms",
+    "question": "Select the most appropriate synonym of the given word.\nCruise",
+    "options": {
+      "A": "Bounce",
+      "B": "Fall",
+      "C": "Distance",
+      "D": "Voyage"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Voyage",
+    "question_id": "264330163369"
+  },
+  {
+    "question_number": 413,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 13,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the highlighted idiom in the given sentence.\nNancy held a grudge against her teacher for a long time, but she finally decided to let\nbygones be bygones.",
+    "options": {
+      "A": "Change the past",
+      "B": "Take revenge",
+      "C": "Flatter someone",
+      "D": "Ignore the past"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Ignore the past",
+    "question_id": "264330108899"
+  },
+  {
+    "question_number": 414,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 14,
+    "category": "Grammar & English Usage",
+    "question": "Select the option that will improve the underlined part of the given sentence.\nFarmers have harvested wheat by using whatever labour that was available to them.",
+    "options": {
+      "A": "by using amalgamated labour",
+      "B": "by using limited labour",
+      "C": "by using dispersed labour",
+      "D": "by using united labour"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "by using limited labour",
+    "question_id": "264330145291"
+  },
+  {
+    "question_number": 415,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 15,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the underlined idiom in the following\nsentence.\nRahim had to eat a humble pie in starting a row with his neighbour over a trifle.",
+    "options": {
+      "A": "To remain without food",
+      "B": "To be punished for doing something wrong",
+      "C": "To take simple food",
+      "D": "To feel sorry and apologise for a mistake"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "To feel sorry and apologise for a mistake",
+    "question_id": "264330157063"
+  },
+  {
+    "question_number": 416,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 16,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence.\nMalati has a difficult job, but she does it good.",
+    "options": {
+      "A": "better",
+      "B": "well",
+      "C": "best",
+      "D": "nice"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "well",
+    "question_id": "264330120553"
+  },
+  {
+    "question_number": 417,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 17,
+    "category": "Synonyms",
+    "question": "Select the most appropriate synonym of the given word.\nFierce",
+    "options": {
+      "A": "Lame",
+      "B": "Lavish",
+      "C": "Strange",
+      "D": "Furious"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Furious",
+    "question_id": "264330117153"
+  },
+  {
+    "question_number": 418,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 18,
+    "category": "Synonyms",
+    "question": "Select the most appropriate synonym of the given word.\nFaithful",
+    "options": {
+      "A": "Daring",
+      "B": "Unfaithful",
+      "C": "Cheerful",
+      "D": "Loyal"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Loyal",
+    "question_id": "264330164163"
+  },
+  {
+    "question_number": 419,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 19,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the underlined idiom.\nYamini is a great singer. She will make it big one day.",
+    "options": {
+      "A": "Succeed and become famous",
+      "B": "Become financially sound",
+      "C": "Educated and rich",
+      "D": "Migrate and settle"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "Succeed and become famous",
+    "question_id": "264330132897"
+  },
+  {
+    "question_number": 420,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 20,
+    "category": "Antonyms",
+    "question": "Select the most appropriate ANTONYM of the given word.\nMalice",
+    "options": {
+      "A": "Torsion",
+      "B": "Haughtiness",
+      "C": "Kindness",
+      "D": "Tremor"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Kindness",
+    "question_id": "26433097019"
+  },
+  {
+    "question_number": 421,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 21,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence. If there is no need to substitute it, select ‘No substitution required’.\nHe travelled the whole world, but found piece at home.",
+    "options": {
+      "A": "peach",
+      "B": "No substitution required",
+      "C": "prize",
+      "D": "peace"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "peace",
+    "question_id": "26433070773"
+  },
+  {
+    "question_number": 422,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 22,
+    "category": "Grammar & English Usage",
+    "question": "Select the most appropriate meaning of the given word.\nTrousseau",
+    "options": {
+      "A": "Being true to oneself",
+      "B": "The clothes, linen, and other belongings collected by a bride for her marriage",
+      "C": "A large cabinet full of expensive clothes",
+      "D": "Single leg side of a trouser"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "The clothes, linen, and other belongings collected by a bride for her marriage",
+    "question_id": "26433073743"
+  },
+  {
+    "question_number": 423,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 23,
+    "category": "Grammar & English Usage",
+    "question": "Select the option that can be used as a one-word substitute for the underlined group\nof words.\nSince God is an all-powerful creator, he has absolute control over those whom he has\ncreated.",
+    "options": {
+      "A": "Voracious",
+      "B": "Omnipotent",
+      "C": "Incorrigible",
+      "D": "Omniscient"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Omnipotent",
+    "question_id": "26433088835"
+  },
+  {
+    "question_number": 424,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 24,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option to substitute the underlined segment in the given\nsentence.\nAt some point in the past, there were rows of temporary shops that used to display\nvarious cooking utensils.",
+    "options": {
+      "A": "One upon a time",
+      "B": "Before now",
+      "C": "In the past few years",
+      "D": "Long ago"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Long ago",
+    "question_id": "26433070646"
+  },
+  {
+    "question_number": 425,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 25,
+    "category": "Grammar & English Usage",
+    "question": "Select the option that can be used as a one-word substitute for the given group of\nwords.\nA structure in the garden where climbing plants can grow and people can walk under",
+    "options": {
+      "A": "Tomb",
+      "B": "Outhouse",
+      "C": "Pergola",
+      "D": "Treehouse"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Pergola",
+    "question_id": "26433088896"
+  },
+  {
+    "question_number": 426,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 26,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence.\nShe was yearning for a trip to the mountains.",
+    "options": {
+      "A": "leaving for",
+      "B": "deeply repenting",
+      "C": "keenly desiring",
+      "D": "saving money for"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "keenly desiring",
+    "question_id": "26433099881"
+  },
+  {
+    "question_number": 427,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 27,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate idiom for the given situation.\nYou wanted to speak but you controlled yourself and became patient. What have you\ndone?",
+    "options": {
+      "A": "Pin drop silence",
+      "B": "Dragged your feet",
+      "C": "Herculean task",
+      "D": "Held your horses"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Held your horses",
+    "question_id": "264330100296"
+  },
+  {
+    "question_number": 428,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 28,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the given idiom.\nStep up to the plate",
+    "options": {
+      "A": "Think about a crisis",
+      "B": "Plan for better performance",
+      "C": "Implement a plan",
+      "D": "Take control of a situation"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Take control of a situation",
+    "question_id": "26433099939"
+  },
+  {
+    "question_number": 429,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 29,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the underlined idiom.\nHe ate the whole bunch of grapes under the nose of all of us.",
+    "options": {
+      "A": "After much persuasion",
+      "B": "In full view of somebody",
+      "C": "Sharing equally",
+      "D": "Secretly"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "In full view of somebody",
+    "question_id": "264330122978"
+  },
+  {
+    "question_number": 430,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 30,
+    "category": "Spelling / Misspelt Words",
+    "question": "Select the INCORRECTLY spelt word.",
+    "options": {
+      "A": "Prefered",
+      "B": "Revered",
+      "C": "Answered",
+      "D": "Reference"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "Prefered",
+    "question_id": "264330163412"
+  },
+  {
+    "question_number": 431,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 31,
+    "category": "Grammar & English Usage",
+    "question": "Select the option that can be used as a one-word substitute for the given group of\nwords.\nExtremely beautiful, elaborate or impressive",
+    "options": {
+      "A": "Proficient",
+      "B": "Magnificent",
+      "C": "Transient",
+      "D": "Deficient"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Magnificent",
+    "question_id": "26433089338"
+  },
+  {
+    "question_number": 432,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 32,
+    "category": "Idioms & Phrases",
+    "question": "Select the most appropriate meaning of the given idiom.\nTo burn the midnight oil",
+    "options": {
+      "A": "To waste time",
+      "B": "To stay up late working or studying",
+      "C": "To overthink",
+      "D": "To be relaxed and calm"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "To stay up late working or studying",
+    "question_id": "264330139773"
+  },
+  {
+    "question_number": 433,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 33,
+    "category": "Synonyms",
+    "question": "Select the most appropriate synonym of the underlined word.\nIt was inevitable that the team management would sack him after his rude behaviour.",
+    "options": {
+      "A": "impassionate",
+      "B": "amiable",
+      "C": "measurable",
+      "D": "unavoidable"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "unavoidable",
+    "question_id": "264330120616"
+  },
+  {
+    "question_number": 434,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 34,
+    "category": "Spelling / Misspelt Words",
+    "question": "Select the INCORRECTLY spelt word from the underlined words in the following\nsentence.\nAs affidevit is a statement or declaration in writing an oath or affirmation, sworn\nbefore a person having authority to administer oath.",
+    "options": {
+      "A": "affidevit",
+      "B": "administer",
+      "C": "authority",
+      "D": "affirmation"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "affidevit",
+    "question_id": "264330141155"
+  },
+  {
+    "question_number": 435,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 35,
+    "category": "Spotting Errors",
+    "question": "The following sentence has been split into four segments. Identify the segment that\ncontains a grammatical error.\nWe have being / arranged the stay / for the guests at / a hillside resort.",
+    "options": {
+      "A": "a hillside resort",
+      "B": "We have being",
+      "C": "arranged the stay",
+      "D": "for the guests at"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "We have being",
+    "question_id": "26433091957"
+  },
+  {
+    "question_number": 436,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 36,
+    "category": "Synonyms",
+    "question": "Select the most appropriate synonym of the given word.\nExtravagance",
+    "options": {
+      "A": "Simplicity",
+      "B": "Love",
+      "C": "Fortune",
+      "D": "Self- indulgence"
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "Self- indulgence",
+    "question_id": "264330163371"
+  },
+  {
+    "question_number": 437,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 37,
+    "category": "Synonyms",
+    "question": "Select the most appropriate synonym of the given word.\nAntique",
+    "options": {
+      "A": "Ancient",
+      "B": "New",
+      "C": "Gothic",
+      "D": "Modern"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "Ancient",
+    "question_id": "264330163355"
+  },
+  {
+    "question_number": 438,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 38,
+    "category": "Spelling / Misspelt Words",
+    "question": "Select the INCORRECTLY spelt word in the given sentence.\nThe Egyptian Pharohs were the Kings of ancient Egypt and were considered as the\nliteral embodiment of God himself.",
+    "options": {
+      "A": "literal",
+      "B": "ancient",
+      "C": "pharohs",
+      "D": "embodiment"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "pharohs",
+    "question_id": "26433089738"
+  },
+  {
+    "question_number": 439,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 39,
+    "category": "Spelling / Misspelt Words",
+    "question": "Select the INCORRECTLY spelt word.",
+    "options": {
+      "A": "Isle",
+      "B": "Braed",
+      "C": "Achieve",
+      "D": "Amicable"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Braed",
+    "question_id": "264330163410"
+  },
+  {
+    "question_number": 440,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 40,
+    "category": "Sentence Improvement",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence.\nNaina is leaving and I am think to apply for her job.",
+    "options": {
+      "A": "thinking in applying",
+      "B": "thinking about applying",
+      "C": "thinking about apply",
+      "D": "thinking on applying"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "thinking about applying",
+    "question_id": "264330108915"
+  },
+  {
+    "question_number": 441,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 41,
+    "category": "Cloze Test",
+    "question": "Select the most appropriate option to fill in blank no. 1.",
+    "options": {
+      "A": "systematic",
+      "B": "biased",
+      "C": "pathetic",
+      "D": "tragic"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "biased",
+    "question_id": "264330163437"
+  },
+  {
+    "question_number": 442,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 42,
+    "category": "Cloze Test",
+    "question": "Select the most appropriate option to fill in blank no. 2.",
+    "options": {
+      "A": "support",
+      "B": "inspire",
+      "C": "trigger",
+      "D": "motivate"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "trigger",
+    "question_id": "264330163438"
+  },
+  {
+    "question_number": 443,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 43,
+    "category": "Cloze Test",
+    "question": "Select the most appropriate option to fill in blank no. 3.",
+    "options": {
+      "A": "death",
+      "B": "anxiety",
+      "C": "deafness",
+      "D": "impairment"
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "anxiety",
+    "question_id": "264330163439"
+  },
+  {
+    "question_number": 444,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 44,
+    "category": "Cloze Test",
+    "question": "Select the most appropriate option to fill in blank no. 4.",
+    "options": {
+      "A": "prescribed",
+      "B": "mandatory",
+      "C": "illicit",
+      "D": "legitimate"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "illicit",
+    "question_id": "264330163440"
+  },
+  {
+    "question_number": 445,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 45,
+    "category": "Cloze Test",
+    "question": "Select the most appropriate option to fill in blank no. 5.",
+    "options": {
+      "A": "rise",
+      "B": "unfruitful",
+      "C": "decline",
+      "D": "upheaval"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "decline",
+    "question_id": "264330163441"
+  },
+  {
+    "question_number": 446,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 46,
+    "category": "Antonyms",
+    "question": "What is the ANTONYM of the word ‘perfect’, as used in the passage?",
+    "options": {
+      "A": "Troublesome",
+      "B": "Limited",
+      "C": "Unsatisfactory",
+      "D": "Laughable"
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "Unsatisfactory",
+    "question_id": "264330165131"
+  },
+  {
+    "question_number": 447,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 47,
+    "category": "Grammar & English Usage",
+    "question": "Which of the following is NOT mentioned as a way social media has changed the way\nwe communicate?",
+    "options": {
+      "A": "Quick, abbreviated messages with emojis and acronyms.",
+      "B": "Video conferencing for more meaningful conversations.",
+      "C": "Connecting with people from all over the world.",
+      "D": "The use of hashtags."
+    },
+    "correct_answer": "B",
+    "correct_answer_text": "Video conferencing for more meaningful conversations.",
+    "question_id": "264330165130"
+  },
+  {
+    "question_number": 448,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 48,
+    "category": "Reading Comprehension",
+    "question": "Which of the following would be the most appropriate title for this passage?",
+    "options": {
+      "A": "The Joys and Sorrows of Social Media",
+      "B": "The Benefits of Social Media",
+      "C": "The Dark Side of Social Media",
+      "D": "Mastering the Art of Social Media"
+    },
+    "correct_answer": "A",
+    "correct_answer_text": "The Joys and Sorrows of Social Media",
+    "question_id": "264330165127"
+  },
+  {
+    "question_number": 449,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 49,
+    "category": "Reading Comprehension",
+    "question": "What is one of the downsides of social media mentioned in the passage?",
+    "options": {
+      "A": "It can help connect with people all over the globe.",
+      "B": "It's a great way to stay connected with friends and family.",
+      "C": "It encourages people to enjoy the little moments in life.",
+      "D": "It can lead to pressure to present a perfect life online."
+    },
+    "correct_answer": "D",
+    "correct_answer_text": "It can lead to pressure to present a perfect life online.",
+    "question_id": "264330165128"
+  },
+  {
+    "question_number": 450,
+    "exam": "SSC CPO 2023 Tier-1",
+    "year": 2023,
+    "shift": "Shift 4 - 04/10/2023 (4:00 PM - 6:00 PM)",
+    "shift_question_number": 50,
+    "category": "Reading Comprehension",
+    "question": "What is the theme of the passage?",
+    "options": {
+      "A": "The dangers of spending too much time online.",
+      "B": "The importance of social media for businesses.",
+      "C": "The positive and negative effects of social media.",
+      "D": "The history of social media."
+    },
+    "correct_answer": "C",
+    "correct_answer_text": "The positive and negative effects of social media.",
+    "question_id": "264330165129"
+  }
+]
